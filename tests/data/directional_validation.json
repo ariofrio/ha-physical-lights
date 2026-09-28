@@ -1,0 +1,397 @@
+{
+  "description": "Independent MYSTIC receiver simulations withheld from the directional runtime angle grid",
+  "vertical": [
+    {
+      "elevation": -8.0,
+      "relative_azimuth": -4.245700053678547,
+      "lux": 1.50367371129,
+      "cct_kelvin": null
+    },
+    {
+      "elevation": -6.0,
+      "relative_azimuth": -3.1758596576129605,
+      "lux": 9.7274972557,
+      "cct_kelvin": 6002.53742154
+    },
+    {
+      "elevation": -4.0,
+      "relative_azimuth": -2.1130614891226003,
+      "lux": 67.8148621772,
+      "cct_kelvin": 6050.352168
+    },
+    {
+      "elevation": -2.0,
+      "relative_azimuth": -1.054660907839775,
+      "lux": 350.631970542,
+      "cct_kelvin": 6458.96647135
+    },
+    {
+      "elevation": -1.0,
+      "relative_azimuth": -0.5272678947344502,
+      "lux": 683.472434148,
+      "cct_kelvin": 6020.11057262
+    },
+    {
+      "elevation": 0.0,
+      "relative_azimuth": 0.0,
+      "lux": 1343.236922,
+      "cct_kelvin": 4846.21956859
+    },
+    {
+      "elevation": 1.0,
+      "relative_azimuth": 0.5294108114973142,
+      "lux": 2658.83088377,
+      "cct_kelvin": 3664.65515075
+    },
+    {
+      "elevation": 2.0,
+      "relative_azimuth": 1.057393897449174,
+      "lux": 5638.43989189,
+      "cct_kelvin": 3247.47579846
+    },
+    {
+      "elevation": 3.5,
+      "relative_azimuth": 1.8520224016852467,
+      "lux": 13138.4278687,
+      "cct_kelvin": 3255.98605172
+    },
+    {
+      "elevation": 5.0,
+      "relative_azimuth": 2.6516081327982306,
+      "lux": 22640.3050887,
+      "cct_kelvin": 3552.3531225
+    },
+    {
+      "elevation": 7.5,
+      "relative_azimuth": 3.9939820347752573,
+      "lux": 38868.5989367,
+      "cct_kelvin": 3959.44297376
+    },
+    {
+      "elevation": 10.0,
+      "relative_azimuth": 5.355145916403615,
+      "lux": 53088.6340685,
+      "cct_kelvin": 4268.53367834
+    },
+    {
+      "elevation": 15.0,
+      "relative_azimuth": 8.163002833476185,
+      "lux": 73723.4343544,
+      "cct_kelvin": 4704.54787764
+    },
+    {
+      "elevation": 20.0,
+      "relative_azimuth": 11.134864121282845,
+      "lux": 85928.5975817,
+      "cct_kelvin": 4995.27406656
+    },
+    {
+      "elevation": 25.0,
+      "relative_azimuth": 14.344918820345072,
+      "lux": 92168.6986821,
+      "cct_kelvin": 5201.38204774
+    },
+    {
+      "elevation": 30.0,
+      "relative_azimuth": 17.889451192255137,
+      "lux": 94038.9182463,
+      "cct_kelvin": 5357.84365984
+    },
+    {
+      "elevation": 35.0,
+      "relative_azimuth": 21.90691857555666,
+      "lux": 92633.3159953,
+      "cct_kelvin": 5486.32935085
+    },
+    {
+      "elevation": 40.0,
+      "relative_azimuth": 26.604573847697793,
+      "lux": 88423.000504,
+      "cct_kelvin": 5596.6056105
+    },
+    {
+      "elevation": 45.0,
+      "relative_azimuth": 32.31926101559057,
+      "lux": 81736.0102584,
+      "cct_kelvin": 5703.25175107
+    },
+    {
+      "elevation": 50.0,
+      "relative_azimuth": 39.675505962829334,
+      "lux": 72445.7201968,
+      "cct_kelvin": 5818.69997839
+    },
+    {
+      "elevation": 55.0,
+      "relative_azimuth": 50.088067796780024,
+      "lux": 59768.2588407,
+      "cct_kelvin": 5980.43225954
+    },
+    {
+      "elevation": 60.0,
+      "relative_azimuth": 69.07307764420358,
+      "lux": 39517.5891922,
+      "cct_kelvin": 6372.60795687
+    },
+    {
+      "elevation": 61.56149976193642,
+      "relative_azimuth": 89.28510276006762,
+      "lux": 20491.347454,
+      "cct_kelvin": 7615.19408457
+    },
+    {
+      "elevation": 60.0,
+      "relative_azimuth": 109.49696746110436,
+      "lux": 18784.3497875,
+      "cct_kelvin": 7743.53662323
+    },
+    {
+      "elevation": 55.0,
+      "relative_azimuth": 128.47477395616045,
+      "lux": 17400.7309306,
+      "cct_kelvin": 7811.67303917
+    },
+    {
+      "elevation": 50.0,
+      "relative_azimuth": 138.88657693608684,
+      "lux": 16275.5100458,
+      "cct_kelvin": 7906.49217703
+    },
+    {
+      "elevation": 45.0,
+      "relative_azimuth": 146.24098701033125,
+      "lux": 15179.8902458,
+      "cct_kelvin": 8005.89528142
+    },
+    {
+      "elevation": 40.0,
+      "relative_azimuth": 151.95295992254495,
+      "lux": 14035.0827912,
+      "cct_kelvin": 8151.15950077
+    },
+    {
+      "elevation": 35.0,
+      "relative_azimuth": 156.644173853616,
+      "lux": 12859.3799215,
+      "cct_kelvin": 8286.41306575
+    },
+    {
+      "elevation": 30.0,
+      "relative_azimuth": 160.6550613916475,
+      "lux": 11600.0760152,
+      "cct_kelvin": 8487.48184261
+    },
+    {
+      "elevation": 25.0,
+      "relative_azimuth": 164.19500318350595,
+      "lux": 10254.9500432,
+      "cct_kelvin": 8681.1464433
+    },
+    {
+      "elevation": 20.0,
+      "relative_azimuth": 167.3950845084592,
+      "lux": 8791.44863943,
+      "cct_kelvin": 8822.9235639
+    },
+    {
+      "elevation": 15.0,
+      "relative_azimuth": 170.36065764508282,
+      "lux": 7156.61545501,
+      "cct_kelvin": 8930.50289979
+    },
+    {
+      "elevation": 10.0,
+      "relative_azimuth": 173.15906762858856,
+      "lux": 5237.55972919,
+      "cct_kelvin": 8868.20167581
+    },
+    {
+      "elevation": 7.5,
+      "relative_azimuth": 174.5141017180016,
+      "lux": 4130.83159551,
+      "cct_kelvin": 8681.02720017
+    },
+    {
+      "elevation": 5.0,
+      "relative_azimuth": 175.85200711930963,
+      "lux": 2899.5770389,
+      "cct_kelvin": 8432.96844387
+    },
+    {
+      "elevation": 3.5,
+      "relative_azimuth": 176.64678695218822,
+      "lux": 2124.84676311,
+      "cct_kelvin": 8292.91702625
+    },
+    {
+      "elevation": 2.0,
+      "relative_azimuth": 177.43843461738885,
+      "lux": 1366.98972344,
+      "cct_kelvin": 8377.44406286
+    },
+    {
+      "elevation": 1.0,
+      "relative_azimuth": 177.96435350802255,
+      "lux": 914.157355939,
+      "cct_kelvin": 8764.83574255
+    },
+    {
+      "elevation": 0.0,
+      "relative_azimuth": 178.48968923907057,
+      "lux": 546.336601327,
+      "cct_kelvin": 9425.2236998
+    },
+    {
+      "elevation": -1.0,
+      "relative_azimuth": 179.01476146449795,
+      "lux": 285.39720406,
+      "cct_kelvin": 10514.3554568
+    },
+    {
+      "elevation": -2.0,
+      "relative_azimuth": 179.5398895920498,
+      "lux": 125.048518636,
+      "cct_kelvin": 12508.0394038
+    },
+    {
+      "elevation": -4.0,
+      "relative_azimuth": -179.4084060205886,
+      "lux": 15.2303324636,
+      "cct_kelvin": 20464.508047
+    },
+    {
+      "elevation": -6.0,
+      "relative_azimuth": -178.35262168001196,
+      "lux": 1.67288761705,
+      "cct_kelvin": null
+    }
+  ],
+  "intermediate_tilt": [
+    {
+      "elevation": 0,
+      "tilt": 22.5,
+      "relative_azimuth": 0,
+      "diffuse_lux": 1150.7860040156797,
+      "diffuse_melanopic_edi": 1272.3629207236786
+    },
+    {
+      "elevation": 0,
+      "tilt": 22.5,
+      "relative_azimuth": 90,
+      "diffuse_lux": 885.8754216594883,
+      "diffuse_melanopic_edi": 1084.6115912416376
+    },
+    {
+      "elevation": 0,
+      "tilt": 22.5,
+      "relative_azimuth": 180,
+      "diffuse_lux": 736.1719162297483,
+      "diffuse_melanopic_edi": 960.2351566671537
+    },
+    {
+      "elevation": 0,
+      "tilt": 67.5,
+      "relative_azimuth": 0,
+      "diffuse_lux": 1363.029185073721,
+      "diffuse_melanopic_edi": 1341.5083755536689
+    },
+    {
+      "elevation": 0,
+      "tilt": 67.5,
+      "relative_azimuth": 90,
+      "diffuse_lux": 798.4632870017209,
+      "diffuse_melanopic_edi": 934.0454676801753
+    },
+    {
+      "elevation": 0,
+      "tilt": 67.5,
+      "relative_azimuth": 180,
+      "diffuse_lux": 635.9883142231884,
+      "diffuse_melanopic_edi": 805.23970121601
+    },
+    {
+      "elevation": 5,
+      "tilt": 22.5,
+      "relative_azimuth": 0,
+      "diffuse_lux": 5879.152252923952,
+      "diffuse_melanopic_edi": 6143.752488698069
+    },
+    {
+      "elevation": 5,
+      "tilt": 22.5,
+      "relative_azimuth": 90,
+      "diffuse_lux": 4286.786958762489,
+      "diffuse_melanopic_edi": 4970.657646891655
+    },
+    {
+      "elevation": 5,
+      "tilt": 22.5,
+      "relative_azimuth": 180,
+      "diffuse_lux": 3397.750293100551,
+      "diffuse_melanopic_edi": 4276.653269504899
+    },
+    {
+      "elevation": 5,
+      "tilt": 67.5,
+      "relative_azimuth": 0,
+      "diffuse_lux": 7582.41250176719,
+      "diffuse_melanopic_edi": 7111.713074934725
+    },
+    {
+      "elevation": 5,
+      "tilt": 67.5,
+      "relative_azimuth": 90,
+      "diffuse_lux": 4047.6419767247094,
+      "diffuse_melanopic_edi": 4452.7610057678485
+    },
+    {
+      "elevation": 5,
+      "tilt": 67.5,
+      "relative_azimuth": 180,
+      "diffuse_lux": 3197.068230718681,
+      "diffuse_melanopic_edi": 3853.171831632431
+    },
+    {
+      "elevation": 30,
+      "tilt": 22.5,
+      "relative_azimuth": 0,
+      "diffuse_lux": 17201.983331568576,
+      "diffuse_melanopic_edi": 20560.811021477297
+    },
+    {
+      "elevation": 30,
+      "tilt": 22.5,
+      "relative_azimuth": 90,
+      "diffuse_lux": 13104.285910464927,
+      "diffuse_melanopic_edi": 16511.498214502237
+    },
+    {
+      "elevation": 30,
+      "tilt": 22.5,
+      "relative_azimuth": 180,
+      "diffuse_lux": 9962.78074193181,
+      "diffuse_melanopic_edi": 13328.387487353235
+    },
+    {
+      "elevation": 30,
+      "tilt": 67.5,
+      "relative_azimuth": 0,
+      "diffuse_lux": 22941.10782670041,
+      "diffuse_melanopic_edi": 25348.767077154323
+    },
+    {
+      "elevation": 30,
+      "tilt": 67.5,
+      "relative_azimuth": 90,
+      "diffuse_lux": 13912.60555423304,
+      "diffuse_melanopic_edi": 16308.900550239112
+    },
+    {
+      "elevation": 30,
+      "tilt": 67.5,
+      "relative_azimuth": 180,
+      "diffuse_lux": 10722.441752821751,
+      "diffuse_melanopic_edi": 13176.430366409568
+    }
+  ]
+}

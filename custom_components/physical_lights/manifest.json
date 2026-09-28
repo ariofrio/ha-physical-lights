@@ -1,0 +1,17 @@
+{
+  "domain": "physical_lights",
+  "name": "Physical Lights",
+  "codeowners": [
+    "@ariofrio"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "http"
+  ],
+  "documentation": "https://github.com/ariofrio/ha-physical-lights",
+  "integration_type": "helper",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/ariofrio/ha-physical-lights/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}

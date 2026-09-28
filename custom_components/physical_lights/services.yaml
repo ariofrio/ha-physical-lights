@@ -1,0 +1,63 @@
+from_elevation:
+  fields:
+    device_id:
+      required: true
+      selector:
+        device:
+          integration: physical_lights
+    geometric_elevation:
+      required: true
+      example: 20
+      selector:
+        number:
+          min: -90
+          max: 90
+          step: 0.01
+          unit_of_measurement: "°"
+          mode: box
+    solar_azimuth:
+      required: false
+      example: 90
+      selector:
+        number:
+          min: 0
+          max: 360
+          step: 0.01
+          unit_of_measurement: "°"
+          mode: box
+from_level:
+  fields:
+    device_id:
+      required: true
+      selector:
+        device:
+          integration: physical_lights
+    daylight_level:
+      required: true
+      example: 0.5
+      selector:
+        number:
+          min: 0
+          max: 1
+          step: 0.001
+          mode: box
+    noon_elevation:
+      required: false
+      example: 60
+      selector:
+        number:
+          min: -90
+          max: 90
+          step: 0.01
+          unit_of_measurement: "°"
+          mode: box
+    solar_azimuth:
+      required: false
+      example: 90
+      selector:
+        number:
+          min: 0
+          max: 360
+          step: 0.01
+          unit_of_measurement: "°"
+          mode: box

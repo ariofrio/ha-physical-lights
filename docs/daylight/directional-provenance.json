@@ -1,0 +1,3842 @@
+[
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "6e1c4579978f7b65fd8f79cc3a6a7763726a2567d39b051d7ad1b83e3d6af611",
+    "spectrum_sha256": "622b6e8a3e20af997cc9152eb88aabda0df708652d31204eed3b703572b903d0"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "367b403bed9538ae123fc32aae5583738818675381633c5be37c220565376daf",
+    "spectrum_sha256": "ed79129d21ac3c2bf0550fb63c5ff3d5beee0fb36991c3ed491057f970e7f4f6"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "38262d06c195b4bfe3740e740c4413d0866820bdb6af51c331034b2c56ef9bde",
+    "spectrum_sha256": "3ccd21ec8ba8157b34550dbc5c9710cb07baffb05c535ccfe0b4049ad09a16b9"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "6fca631f9e256c5b7a9b243188223c3031c93fc1ae1037e50378583c909ab985",
+    "spectrum_sha256": "63da429cae487c0b6c7202016fb01cf561568663f0a9c4db346e853dfd0ceb69"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "18307b8327229d359e1fd503f7dd36c1e935f1813ddf7036dabee7a26b8acf96",
+    "spectrum_sha256": "4618aec32e8dd6e50cf64fd40f521a53ec7fadba80c16584a5d0612ac021b7a5"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "289d1e29f9547f7a1e46533fcc9e572ceb3fad11ec8ac4867cfe1858423949c1",
+    "spectrum_sha256": "8d9e35d27065339f1b7759c18971f054d010cf577aefda174e51ea2ee58769af"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "2aa8437df6f274cd4495fb3b0b3e2056c6c0c3c61b95140d81ba255364446c78",
+    "spectrum_sha256": "eba6d0c648460665f379ea29ea97545985df614b20e892322fb0d3794b49b303"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "cce5f062a0fbc8c2ab3509edf51b59f2dfe6fdce1ce608f9ff7dbfcf13665642",
+    "spectrum_sha256": "b5a2dd96b2e5030f7bd9859bc69dbdff0b58cc22d20733e8d67a5a6add7edbd4"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "e6ad173f6b78275ed6637e86b5ac0ee94ac9b0d0d55f1bd5ec8ca6b476b16c9c",
+    "spectrum_sha256": "abf7f58b17d431940902d68004de5b247e711e5195459ea0435be8a94a92edab"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "d86e96fd72d78fd38037a3f8442f26ea09a42808499332d7518ea7f3d89205cd",
+    "spectrum_sha256": "7d5262267c072c74b1b88219b2cee531237433253ae7b314b81b55d0c2593aa3"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "0aad59ab1122152ea6dd8aff2f85e31effe502503e6d5e5fb6dbacef6665930a",
+    "spectrum_sha256": "79c451dc716fccc41eaef5335921fd1057243ed3b2708044325ee4b213781329"
+  },
+  {
+    "elevation": -10,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "2c8ce27332c1f0f33a3b38a0ac24687d60a4b75fafc704ca18872d9a913adbe5",
+    "spectrum_sha256": "5b650bc99261b54028f39aa1add10bbf1d8932b8c1549a6b6c5f5e58e8c2304f"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "94c6f82040bcf7ccc4dd8d54bc4ce61693a2d4badfde77d15589a086f4f14d52",
+    "spectrum_sha256": "48a80de5d24373cbd3f30bc722020db915daba6ddd0adc8217fecdecefaaf025"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "b3620aeec98206cbec16d5d8b8e97eae7877c4c6bba95ce892ad153dc5a85d39",
+    "spectrum_sha256": "08d369c800050dfd40bb55edfa478a8fb63a4861583446ea30846a271331fbb9"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "61bcf33d614ff027b71d96000deb739b80230b87d0227fc1caca52f114f41541",
+    "spectrum_sha256": "4b0c2a84f1b33c25b0c95db585595346b79402fac606db23784bb15d9e87cb17"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "9f13e04e1a919b4d5d0a6b2d33ad1b332f23e7377630417e6040208d3346d192",
+    "spectrum_sha256": "310dc9fb08fbdca2691226e158fb983a7205ee889d2a1e3b85559e7edf32a094"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "bc7e320a7a90e6448c590714eb991fba1ba5769861c1abda7da7756b6c4325a4",
+    "spectrum_sha256": "13991f8aae9639ef4d1d56e487e9ecdd9dc52b17c537e70c52e00f9178af137e"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "dc4a055c3651f8fe3383191ae7d8e5d40a7590b0e27dd065d88fb28c4ec80dc4",
+    "spectrum_sha256": "ae4ba82b540da0993a0020be7ebbc7bae7c848063c85cc5af3d5bd4aa0780e38"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "a7e6c9c22f6117908a0cb162ee8054ab5348b121f9c8b411d7f97243359e1421",
+    "spectrum_sha256": "fc538f7100281af786fce69e8e779096886e070cfd191fba8be6aa67b80e6346"
+  },
+  {
+    "elevation": -10,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "80cf224d1ec0af2d61ba33d91f401156b3a3701eb1ca265ca7471ce33a33310f",
+    "spectrum_sha256": "5e3af00033670bc9f0bdd4180472edcd14cc30c53a411ba4cc40feb6ce4048a6"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "4c059d0b6aa4a8f17e5274d695da70dfe6ea6018f4ade3105761799e812b6e95",
+    "spectrum_sha256": "8476f14b4de784cd71b5fbb33e40ba32e32f249c1f1fb982e4cdd0f2e2e7da87"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "9508dd2b760462092346fd0c8fa0c4284057f15f9c9f8c4740f0d982af82d6e0",
+    "spectrum_sha256": "d30ca13e2c937ee12345b09e832a57b91bd3828b0c2ed8184e0e52bbf37873d9"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "31c48bbba7ab06b72ba42f39202135a05909bf0b59b0a77fe21513cfd7112ebb",
+    "spectrum_sha256": "86d6c239e43df024e0e110d6cc2f928cec4aace26b85c4e846521ae46d18c888"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "8b219734a64b6f52ffe9cc0adb66b06363c088415603de71c6ab259f1ddda35c",
+    "spectrum_sha256": "e159754ce98a38e16aad310d1925e2328843dba91437fb5c2590b332b547baa0"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "8dbf0fab54193acc9b4a385bb56d04fe51fd5fc88e9defceb2b0d711ed202d7c",
+    "spectrum_sha256": "dd4a9617fccd5ca6fb32797e5a677d0715f9aa9c53db7c31a08a386c5b9351b4"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "94fbd8e1230f97d25ce140533fd83d48e45073e208ab96ca060b2ee1598a80f9",
+    "spectrum_sha256": "8f64ef05463318bdf327863e018cd6647e2358310f1685a8289f1f7d9d464e74"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "1b24193cb27c92b78c8a16b10e52bd1208e368343af416f5956867337b5b6385",
+    "spectrum_sha256": "28abc4d07ee83b23b5a517b84027342fa3768fc82bdfcbc3fb326a856189e03f"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "c5e5d235406183bab187e1b1fda240218e2d1fba3ffb9145b26d27a272a03225",
+    "spectrum_sha256": "8bec034b344cf7d4736701a5aff4769f0229afced3669d2e06f41cd4ffcf6f91"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "8172ab777ac2ce1a7700a2691ff4023d458493fab6a05445d80f152424238fa3",
+    "spectrum_sha256": "62f16104062e517d03510d3e38ea09ff755cd9523537564744ef8713b5614f48"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "a313bf4c7d6caf4f6719c7c44c9234ffe923670c92abccb78434439612865907",
+    "spectrum_sha256": "240d14206fdbae852b351314bea9b588cd09f193024d8cb9efdfd36fb1e8b594"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "5bcbab35aebfa2e1f0959b8ef89754a6c02d5d306891c415472cd135fd4d6a4a",
+    "spectrum_sha256": "1210203d06a5838af5e8dd721ac5623c21cd7653feecf9ebc7c5d64dfbb126db"
+  },
+  {
+    "elevation": -8,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "ae3b35d4b4529825e034d035c8858fa486437868d1ab2b0894e0e13b89b64640",
+    "spectrum_sha256": "821991b3cc4ac209404eadfe0ba85ee0f8ae986401970064296d5a7ce73fcf1a"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "4ecaab94b0f79739650b83d8bb3e5aca6f2637121bd9701ea33d3983e91e36c0",
+    "spectrum_sha256": "567528b0075abd77d07eb1733ea3cd74619ae200e76e1ed26ae9bd425cdcfbbf"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "2c1f2b1d09b36600d65baafae19afb1a06928bbea4ae76ee9cb8c6509b934e6e",
+    "spectrum_sha256": "7d75450f5b6708b5a9aa04a16d38bb8ce50ac026072457b3040fc2f8deca22c9"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "b4fceea9441cd06894c89acbb70b3640e37667e444e94bddd9751ccd77eda4f3",
+    "spectrum_sha256": "34d249440e8589cf96331a2f36efea3dc168fdcbacd9d95be038b34251d0f567"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "651c5d1cff7fc5ca85af23e38cb62f266d16820dd713051571526a6eff4d65f7",
+    "spectrum_sha256": "b59893741104dc0f4e1700292ca75a9fbe5ebe503aaf4e0ebe4647641670d41d"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "d2b0ad0a9993879adb6ab790aecf71546a39b33054a52d416ad06e3d784a4d7f",
+    "spectrum_sha256": "79dc668fdfaa1feba88cd708888efcff744342d9fcfbfe0e6a604b28f92976b3"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "29e94fed89c9093c4eb53f50e4fe6d320785e8685657613f400db0db54786418",
+    "spectrum_sha256": "83a7e44bd902a860f52c1e58377826ddd4fb49da33b1f051bcc71dc94793b652"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "4f2bea3d5f8355c7f06df1475f82fc2391f4b21a391b7d9f3fab6ab506775d75",
+    "spectrum_sha256": "c5b1a685e4a79841e61d20dd7f538f78ae78c62abb09644c161be333e57483d4"
+  },
+  {
+    "elevation": -8,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "b88165a31d966082b672f07921d83d7440188450daccc6020d0d00863bc48dfe",
+    "spectrum_sha256": "1d33f1ffbeaf1885b047036ce926de2f6cb9f793138b877ed390f5186824eb7a"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "7d827f7f96dc2dfb62968d5605280222098ccd69172c0831a982403197f3059b",
+    "spectrum_sha256": "e4834b6da5127dedf3791bb6fbc5d6bbd22bb542a55fbeb4fa2b6f75a3bdab49"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "2c43bc2eb1fb57bf6ad422f2f3b2779c47816d9c511b5a39ff17365990067aac",
+    "spectrum_sha256": "f8dfcb31a08da52379a7dfca1fd0982e2eb7e49987e4985aa0bdedf63c99cf25"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "0f581faa79ccee59c57a0f09b260b7b6c52b8d7b869d5f75da2a9c20345f01c6",
+    "spectrum_sha256": "4dbdc25527e03c8b57d4d515129c82340eed7144789365c46c03b2c833a05df0"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "119568104382dcda9aa3953ae92bdf76fa9099b11ee5ec9c90dc981f03b22d4f",
+    "spectrum_sha256": "343c4e41bdc057666439e02c53398c81ec2b6334fb0b088824e7521a111d6d05"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "6f421bac49512a5614ca0a4096cf1a2f338a7178bb970a0fc524d2029b1f707b",
+    "spectrum_sha256": "728047d695f2a632bf55b9831ad999b7befb06f79c8734342497a1a2a3250016"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "b04289544146cc974663b5fe3c084d59caabcf684a2267b664e6b11db21cffa6",
+    "spectrum_sha256": "896780d71d81e7eea9ba9fdc470a952f642b2f5bb0a43cc170ecdc72482b03d0"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "f6b8a226bbb0ec6e657f6ac87c556b9e690b17b4e4b09d18f97faf404acb13e3",
+    "spectrum_sha256": "c3dd51e0a6c585638f8dea43cb8f4c3aa0bc0f496b5f9e40fccc02da5aee0cd5"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "dc27086e9ce45f1ec9578b15dda8d102c338301c031cecebd9a619f1596ff94b",
+    "spectrum_sha256": "9a0633825e0c168ae614e2cb5b447dc6ff2efaac93b9837720f8b4de8b2215e0"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "9c4d396fe2d4171bb262cad78c0be3752b02420f056a667e7d38798a6e8432e7",
+    "spectrum_sha256": "0eac2e72ed0583435b443c443706ccc56863ccfc2f813961226c88c8f577ad2a"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "09a71fe4edcb6be16b4f93075e75bc1b7c5d92f83d28dde33e66fdb1b8fe2a45",
+    "spectrum_sha256": "0cefc4dafd596758e10824bc4fb5df1decd04402cb3b31800b932f1d9e3ab4e4"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "a0705e01090d99f505b1232bd5f3196b2f132a7bd3a78ff6bdb0568bcca4fc99",
+    "spectrum_sha256": "9262808a11614c401fe645b55227fde49b3cc687c7a119b83cfd86c8194758c2"
+  },
+  {
+    "elevation": -6,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "9ab9ea001a46baa94ea8ade911609f297d9b91bb5d18dd6204731d994a49f933",
+    "spectrum_sha256": "b13e24799458c4bc6af14fb5ac8b43cb1e259661ebe0214c720e856a29fa8671"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "03181edcbc43f6d13f3b29d3d6bdf6bf87eeb5ee81446c6f6b4d99707a56d7c3",
+    "spectrum_sha256": "a881ed2808d6419b6fe551716697746cca531ff37399fce19d67258810dd1411"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "1592f419770b6bdf5f740627b20fcf05e220f08b79f0005764717560f21bbb40",
+    "spectrum_sha256": "6c103f05158dd95177279102d2bfad486267c3f46f537321047ae2944a8f673d"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "8fb195bc65e7a1f6c31fc44f4fe01966c5c83d4a18dcfaec7255213d7d500cab",
+    "spectrum_sha256": "1a0468639fc3fe7c8401532d7fea1f475f82a381c7f15639ee42bedd88b6707c"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "b0a46bf20d46d848e093a9b6435c6a91d0b04edd867ba2af74be384c250cbe85",
+    "spectrum_sha256": "2d6649b3668a1dcfc20213c02579271c1ce317786b36932c75e2f583aef28b66"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "5421705537fdcceb7de9cf3f67ba55f71c995e80dde989c5abc05573eb821e92",
+    "spectrum_sha256": "7f17904331de05d20d49369900a1bccd6ff7716dbd17674cb70ce34330bf95b2"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "a61a20351edb4dcb6b6353e91620e035a1d2a21be70bc4770f2f957591cad227",
+    "spectrum_sha256": "7c4c7d9f364377315f32ca3d37d23e27d1342d42eb9effa7522bc8b6af5f5dc6"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "79a3ad90943fc3a2e42164adcbf21121b0d318e1ea31bf1f282d9621d4798a75",
+    "spectrum_sha256": "1f6572b3f50788bbae17d65c4798a403bd317d6286949f11b6b26f1a9b05167c"
+  },
+  {
+    "elevation": -6,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "9f03ad325b535fe55628e12f214539c1ae20e545614333b9c4a467089e491abc",
+    "spectrum_sha256": "b484fc9fef405c965ac7a728e61a55b97fc40a7510a4185c69d7431d2b8df070"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "7c707a71a65026ec7e525ee31f79511faf43b7e7fe8cd703cb030afa9c63d1bc",
+    "spectrum_sha256": "a3e02999ea87a4290420d810516251f599446419835f0280df11b65d9cc5d974"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "898b55ab0cd7a2ce7b10bd31b2877bbc003d4f4dd4548677ca59a9172e0bf5e8",
+    "spectrum_sha256": "280a011bb66672e8fe96db862c1f0abe414bce2640d42ab4a80384f350df8d28"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "07fcb19ff279dba462ad6f4a1aaa8a13f1e758be6d45ab0042886feefc9b8cf3",
+    "spectrum_sha256": "4c5d63b61e4a57e5e6a5a7734db07a9a546312aec82dbe2a676c202721bcce76"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "3653334003d78ac5c1772bf771ab7d676cf078800dad9e9d5e1fbc729c80a771",
+    "spectrum_sha256": "8492e791342a7e6ef9aa7be366bc91e44ab7ed834c152eabd166f4edd09ae4b8"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "9d5047ed60d2feea09393d05e3179776590611157baf9b076b9d70bcefa3ebf1",
+    "spectrum_sha256": "4af4d6ad7bc796096b96a5e51c9d93d822767a500a9a421b9cb34afcee056b5b"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "7ce4bb72a58e15e8248b2b81eb8b8cd957781b02cd296dce6e35712ade37583b",
+    "spectrum_sha256": "6c0bca4ea1351352638b74dfd5e06f4ca73c1cbbf1da1448f7fad385edc7eb1b"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "3c275077972774194e5d23e759ec6376a9c5a3c3edb62905f1927c89d02f0654",
+    "spectrum_sha256": "3072cd6d29850d639817890e822bb3471b9cc05adff5a67da6144b849ae2dcae"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "a99846c8bae6aff9c780b1193fd3d2c401e581df55a1e24d8c40decc140d3615",
+    "spectrum_sha256": "5ec73b1287cbf0245e10c972f5d5b29df4befbe5290e55c831087cfa182163d2"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "796a215b751d6bfc8d924bf3061ff33fc18976cbf84eecb78ae54e71db730ed5",
+    "spectrum_sha256": "8ed157526dd641498efd11a05ea3faeb137722b5a6b93f88b209401f81bc19d6"
+  },
+  {
+    "elevation": -4,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "fac9eb09eff29716eff2d87514537e44586a5d78c90f0a8c1dba90e375b5faef",
+    "spectrum_sha256": "c9cad0c6a5dd48b683ec1acc231e58ef8081447c0a07d92f2b6002a51f5c7ce1"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "12d98eabddb44002374a501bb3eda8ee4da4578485dcca41e0a8c57065f78039",
+    "spectrum_sha256": "89d689e8891b21b325a4e59fc348b1eeef3083a227071e6c082f3a7c05bc5cfb"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "afe4b34e06b0ff0085da83e785e535cb60e59931e605257475a9504cb3f193a1",
+    "spectrum_sha256": "133fca1926994ac27689730d783f355fe4d08ff00a14212aa081d93ea3993faf"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "97fa7af49f26d3ba73f2e2921ceec19f39ddc3c1c119fbbc65b37f0fb263314e",
+    "spectrum_sha256": "ec475328abc6c7c350cb1fe7e05aa3028eef7a9bc4e55db283557b058984544d"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "37f8a9de2d27debf09102cffde6b4dc85ef1f75ab06a68f0947fc75a022c6bef",
+    "spectrum_sha256": "d0db239e2f6f6642b0570255e37818ab4673e07a6e11e6fdd392f71cfa84271f"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "e963ec16df0aa0d90d5b56739d8ad33e4d67b7860502adab9dae5bc007285a79",
+    "spectrum_sha256": "c6155f37d027a6449548a0ae34b13b872c628f36d7aaa9e3c49a24a54f585fbd"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "8d933a998673f7a7653a0fcae207f23722d673f76f70f762c718cff3007a6dac",
+    "spectrum_sha256": "48bc39bbcb743abe66c03b4560b8efade8aa4d735f73ad8905298b1ab7526c59"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "75a176da5a08cbf26b0115dea21f76ea7afb6cfab80673200a2cd8cfd5292289",
+    "spectrum_sha256": "92542704dc6ef7e838c3347083d4b96d82e5e29ec82365d3b1de3532b824dd05"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 5000000,
+    "input_sha256": "8f653599f344c417f128b1a5ce7d74edfcd86f88f5bb797cd146488cafd5590e",
+    "spectrum_sha256": "7a1743d366343dc2bf95c423afefe506952be9cf48146fcf540d6c50a8a488e4"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "c3bc22f31cc3243f32bb9f2f12c9b3e3abe5e9b5aa038a9c29c07c957168ec27",
+    "spectrum_sha256": "056b967713f55cb336c4e3db9915023dc9bb6f892b41ae9f8dd419f05520bcc4"
+  },
+  {
+    "elevation": -4,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 1,
+    "photons": 20000000,
+    "input_sha256": "a21afa45e15d0a74762fd6f39292ccbe7dd700ed5b8b9b5a11d87df9651797fa",
+    "spectrum_sha256": "dd467dc99a797d47534db776b334cd860285b1c1e44005751498aa353d9b6822"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "33700d04b90ea93aafd0acfe0ad907fba2ccafc824cea14315016c8ac01e641a",
+    "spectrum_sha256": "d089086236335109bded8f495316505bbba16e509333a7c62f8ae1581c8660a8"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7ef86f5494729ce3172bd700017d46c33c34e3ab7ecb45feeec61c6f6e1aabf6",
+    "spectrum_sha256": "5d0ae2751114ec6178fe5f927f75586586c4b213adaeef094bf9e526871c6d59"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "451320c50f3cf649abe6cab0a432ebda157bdfd5bb6e5d033a080adb4e0f8586",
+    "spectrum_sha256": "829a74dc031f93fd09a8a434de28cf565e5094e6cb2e1792e478966d00dce0b3"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f43884da73db7765ad1c49dc8df564c10a039a0247db1572e26118d7e1d860e8",
+    "spectrum_sha256": "564f837b1726900ad84e6a43118af2c79aa015416a3332c1b9858651d0980154"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "bcbeceb03a0c96bf7d684be3f74eaf0756c094af84d5ae4041b818687390022a",
+    "spectrum_sha256": "2685f0662a78a9fa104fcf1dfd43b5dd1249b30c787f3cdb8e96c56d1071333f"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6f36d36842ce0ce77cf7a9c3911c18a7d210ed6c0cccea98a23e1b7dda70a45b",
+    "spectrum_sha256": "d0b7f618b7d53ef0ec728510d2b373a80f171ce2800913cbd679542c6fc201d0"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "0810a2d2a2247bd665fae3c45b41a0f9ed05726ac43cde7b06026f30af8fd9ce",
+    "spectrum_sha256": "61930f5b23e26ee7cbd5b147192e521c5b7019ae8cf9bbe28f795936d0b2e72f"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "536490cca5c0c32beb1214a5888da0570c2fe0c8fd96fe2bc1582f9780cd9f9a",
+    "spectrum_sha256": "f7994c1dce907759569ae33432766f1c67cbc4d1c59b1337b2ba15dd987af31c"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f145976aa3bf3c44e7c4041a2371ce6f691671f73a2a2534e8a1b3feb120681b",
+    "spectrum_sha256": "a6fbc165495d8e460d8cda07c651023d31009341c19eac8a3b583a67d5c36af2"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "09249ba9b82b4e5f152c47f5fc815e909774b852ccd4d532a9d97a3b7c3f3d68",
+    "spectrum_sha256": "77c5b48f42680c48eb7df1794b41641b0c3c442955ccd1c81a3e3e5da3d5a564"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7e911fc4917be5390ff962d95035c617e6b35ff5895cfd0ff02824fa7374e86f",
+    "spectrum_sha256": "9b3729c896012877a12e5338985a224d54ba1b21a986cc72119b6cfb8b491ae9"
+  },
+  {
+    "elevation": -2,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7e72c68d2c341c8fd53729f2b6271ae5e83aebf653aecf01dafd7d5d4bdfdc1e",
+    "spectrum_sha256": "61d1296bd43f259ed78de2cc634f7cc3e85527d7d059f5d2ea57a61d0205d1dd"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "42bb8a9b668b5dcf61522b718e1dddb790f65aa8ba2542d326f67f511d107f11",
+    "spectrum_sha256": "19a97db3a5423183523c7dceeb3e514f6ab1124943c9f98ec78f47b4e0992ce1"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "545776dbd302c56ebb5dbbc97f2f4b944d555b89779655005fc040f262bf6b3a",
+    "spectrum_sha256": "f64d8be887526b35d4d8c1cc0907cb2270df9f57c3c61aa457e6414ff22e385f"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a979ac8bc07c1c9707d8c0f30a584f353c054cffec9a21869c3078f195b8965c",
+    "spectrum_sha256": "05e26b44a4c64e32a2df234eda03f95ebf1b2ca2231d6b347a5044c9c2af117c"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ba6521818457de1cffc06b2589d98a1ed3aed49bc36ad26426fba1a54122a912",
+    "spectrum_sha256": "d2c54603c5a26508742918d3edd6ed60b80940b1c24e4f4123214119bc200d8f"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "05559b334017716d143a261c65809e1e9e01d864d228eecc2d9bbd69c84f11c6",
+    "spectrum_sha256": "94cd95eafa7f6eed00db270497e407448217aeda58b7a761e7d0dd16e72cf6e1"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f82402224cd7360c27afa56dffd94626a741bbe486df21656a32abe9ceeed451",
+    "spectrum_sha256": "c798fc2b45adefca55bbacd98396089da05058c0fdfb65073f29a7c86cdb8836"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1a8d5aa49db914fe98d830a216db4ecac442d5bb78acf26d1f58511b564acf42",
+    "spectrum_sha256": "f49d04e1045b8dcdb1f96d95010b89c98604b1205057d39ca5bfe3ef5bf09cdc"
+  },
+  {
+    "elevation": -2,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "103cca3306e51c89740a613081fd57b5712929d82a5fa97704992a3bc2bd4cb8",
+    "spectrum_sha256": "af777552b10a940c5efde83a7a21acfc0573cf56cf6fed08c90a22c297b127d9"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "76f173b87042442c2e7b8e74489cb6e56adc395e0331e0d60c398c816cb7f827",
+    "spectrum_sha256": "beb24a4003d5507e8bba36492e61b3d8bbc5a900d4622057ff76ce197d2d1400"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f11cc22c1fdcf728cc5bda03e3c50afe616381e4cf578696ddf4f7e619aefda3",
+    "spectrum_sha256": "078d5d44298bc5e7faf7350e418f7709e30c5cb8f26d20814ae7a664c4b5f8ea"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "81ad6925e342f86b548b5de2cf61dbaf4196019ee2ac2eee952d6392aa1a05a1",
+    "spectrum_sha256": "73c3d496833a34069055e804b3cc28829ef83330618e96cfdf7c613bc8dcbf48"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "fa6e577256a00dbcc9b29a3193329448d3536e1d8cb888f182f96bb6261bef7c",
+    "spectrum_sha256": "d2365f7582552038568bc0c985ce4ff4680499bfbca64cac15b2049b2614deba"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "99114fa160f1f1733a488abfa7ffaf4ae660b287133e508305575aaaae7512fb",
+    "spectrum_sha256": "bb13be07fededa5d12fb9557fa09c6bab1a2767d37fc25187038ba574fdfb106"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "93ff9661c62246b168e72cb48d59364ed0ac3914f5a59923e65a84c48291c501",
+    "spectrum_sha256": "2c8f1bc2f7214e038f1b28094f9beaaf96306b8484da5f02154e06995e16d585"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "18f0823e2d8b3bd192da6423287d5bc136268596a36ce79981215b07ee90df7d",
+    "spectrum_sha256": "64e947b9485e92c1e111e1ab8c36a32d318364541feed1f95d50a1872ee1373e"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "e5553937043c0699bae1f6bc4a13669bb8e4ccf282c2ae963ad3d2746c8a9a3b",
+    "spectrum_sha256": "f42b0604bcaf4c0c076377f747b2d1ae254241c83db34606c16b8edcf822e01f"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "07e5584557042ccc22294571779167c8f1a6958666c894140fb7b635d40a3d50",
+    "spectrum_sha256": "58424ba33307f9d741155a408d83754582855928ca80a829ceacb2213060e23c"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "8fa0d1dc2e6dd7b50fd41ffcfb424f2cd6bee31f8629229235482f799e623a56",
+    "spectrum_sha256": "d60e8233f6ab9c256ac673bbc045e2d9eb3354deaf0cb23b2b4bcd5cf920db94"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "546b2c225338d31be6d4a7d8cf94d174073f7e5b254a10d067cf696487b33dc8",
+    "spectrum_sha256": "7c01fdeae604fedcb6ff7e8fbd96659bf647a06678edbc3ebe3c8d63f916a813"
+  },
+  {
+    "elevation": -1,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6f5802725810f074ff2c241d736f62899c1ee56aaa7275b79e78fd647a317ee2",
+    "spectrum_sha256": "34a4960d7af6cb6656c3517fb0270f398f5973797f583afead9ee76e88a95694"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7ab8259c7058e3263e792000a3b21de36d2889f65358201a2ba8bd4fadd4ab5f",
+    "spectrum_sha256": "4371fcf7758867fca3fcf74787170a543bd4f7b58bcad930ec4cf537f6703e92"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a8f32cf3c66ae9ac41e4e5860c4c7783ffa8570fa2c53d2c6c1fa0e93d0600f2",
+    "spectrum_sha256": "e66e0ac422db7400634b1a7cdea4d07ef877be81d90f7eab47a6550e5601291a"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "427d6690258f72c5e0436f3a4c0c8321ec4fae6c5842297fc8624045032a0512",
+    "spectrum_sha256": "a80a5fb12d09ab4f0e203f518344ea3e740734389b812f46905597c41ca98c0a"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7d8a24786c1092aec8241079326a98b79a1926cedb4ab4fcc42254206ab73e21",
+    "spectrum_sha256": "8e53c9da77829f516cc02c6ac0da4361665a2b31d2f2117b24e85ff6dd690fb2"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1a2c39a4dcdbaf93fcad07a7b3ed3ff302bd6cacaeddd67e20feb02165720c4d",
+    "spectrum_sha256": "71fa8cb36c83765896fc994036fb542309a299513fc561d100e7c20377a20e4a"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "0b176cd6329ebcf911379628558c968d853d513590d774ad26c6204ca11d29b0",
+    "spectrum_sha256": "e5be3b82fcff1847991c7d865c1300521672154488cd40b292c0640e5ae892a9"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1c256b21c34dbc78adc819fe954c97f2fac4ea4c4a72be7d0f0d37c4976d2660",
+    "spectrum_sha256": "9339d6e64bd880ba9cd7d7c1e1da1c71f2ae008b5116cb097b27c140fcbd3202"
+  },
+  {
+    "elevation": -1,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "befe106c79896a40fd9707b40ae138b76e62f95f314ced21748d69f004907ff2",
+    "spectrum_sha256": "94add87c95d3f80ea67b43110ede888a69b77070d97c52e366507e53ce8ef0c0"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "004fda07a6abb9c128998a38805b417380b8e84c37e8513b2afecaacb40e4343",
+    "spectrum_sha256": "324a71a0cd409e4534124c33c52cd4c4ad65602915bfee84f1aef6b8af54ad57"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "69c3bc69d5c631ac816f1aeee10fee46eb074d4ead23593d61342a8c7ba1bfe5",
+    "spectrum_sha256": "f39b3b2d66eeb070f617d429d7153a7d511b06fd444755efecb7760f214e47d0"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a9c9410038fc2a0ff990086a22dfb68707ebcbd4f610df726d509d24c9d0b647",
+    "spectrum_sha256": "a360e09f6620857a82451b8af0340b4136bf7367e4ecb2189662482bf1c607b4"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "0dc2962ac3640369b4fa83722fafe2d510feb8b097b7177639a618303725707f",
+    "spectrum_sha256": "c567b22d0735527cdf4014819d64434268a878d86243826a289f605c7c26a9ae"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "acb14414d95dc7c2a5190e8e206ab7288362e626a6751df233d984b6686a8846",
+    "spectrum_sha256": "3388de59918c6aed950e85f222f0c6604a393e46569cb3b091bb13b06b2a7235"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "868fa9891783adea688b53305f57bdfdb1369f2024909ec0a9c37dd16a1be0a4",
+    "spectrum_sha256": "304f936f753a9c1deda45184f502a544ddadc207dd23d30ade900c42b1f4217e"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b25ee33aa57f30ff8e14127248264ae0c5a4040bcaf245ffe63fcb380c910e73",
+    "spectrum_sha256": "df4d2f743d5155a19b60e6e4536aad94a4616c4fd09816ff55e0db2f36d55908"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f6f40e9417eda2542ef43fef98e2cf9b23341e8665ccce07e3cd90a2e0a8073d",
+    "spectrum_sha256": "c9568df9b85017314c2704ed7a6ce71b2d58ee061eb50185e19b6e91430516a5"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a2eff24c0c6efd9d38fdaf73f95e730f9925d17402421f02fbdcca75e22b1c66",
+    "spectrum_sha256": "e5478f169be441f2f5ccef7195a04a15f10d35cf9aa811cbab441afe0caa296d"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "090667a697a70f8a88efd7757182df356a6e96a1841c5b895aab8779e2e54b8f",
+    "spectrum_sha256": "87a75f374a37599a678d9fd7fb340077c65e5eae6c8bb1478e9b066a907047aa"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "998bf851767156d66c01d1bddafce67ff5e51018fed563d5c44bdafe09c8ecf3",
+    "spectrum_sha256": "9d61cf7a11a6acf12861e7c2acf9441d4241b1d3ac756e3c2d585d27f194df49"
+  },
+  {
+    "elevation": 0,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3adb5adc3c59efc1dc62b7e25def9cd24a2bc90aa2d6815f441150e4d73fe8c8",
+    "spectrum_sha256": "1f68caf51a181e29373d63989c44da86712482a2d51a29a109f5cfbb9525c583"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "99b914a9b903d917e804992df866d0e12e864746c5743195410e4821524f7634",
+    "spectrum_sha256": "df71dc3620444f509d2fccfcae76798f1785c69373bf5aaadafaaa76b151f3b9"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "cd8d0df43f2b1db267d8b47d75b289e525f5b4de45814ccb8b2121d3cd0e8ab8",
+    "spectrum_sha256": "3e1af889c588833d7ed9e642d0650b1fa0046d180acf6d97f5c817bc6185c109"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "8608b390db9302dbf32b9f1abb6ebdd58727d84517c1c7c30d371127c4ed6c43",
+    "spectrum_sha256": "ea3f75d16cbdc68d88c0fe9f20ccaff0fba38184e468c805a051e2933cf7fac5"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "64cf77ecfa6ebe2d7f90cd80cc058ab7336d63482b1864f616c4bcb578ce5002",
+    "spectrum_sha256": "45a40cb3103f5e458a799f8d136a5fe86faf0842628b583c3fd3e9085ff07240"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "4c7f144866c35acc61df2a99747e18c08a050fd5ee14c3bbd8c424da874ac8ac",
+    "spectrum_sha256": "098a0f420b00a63def72d7d3281378d51a3c6632268ed58aab97f7e1f201f30d"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "739f95118c2488ccc4d04f44b20be317633bfa2d9d38ef54656b98424647c710",
+    "spectrum_sha256": "f577462063a06a4c0eb83ebec1166d800d8566c720fbbbbdeb920eef8037eee1"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "649565ea8cad6fdb4fc2be48bc6152c074532c3d60638d986bd584b060592769",
+    "spectrum_sha256": "d1bb3760244dbb3a762312f5c6ec3d3283feca6426ce6a31de474031828ee22c"
+  },
+  {
+    "elevation": 0,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "5fb24a981d098ce2a502213aaf6ef806a91fe869ae04a7f3a544d572636d7327",
+    "spectrum_sha256": "e206c281ba7625b0ac025da2b896673e9ea08b1957410d46595c2bc79fed4219"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "94231dcd59c48b223c56df129c8cde56ca143298d2f62edbce8fddb8d96fa96a",
+    "spectrum_sha256": "d14af5aa9c70e0d71bc4caab1d919e0457d4c001e87d8409392c9f166ae47ca2"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "8aa3f290d167ecf1d3159625fa39343146ecf106dee161d3e5da2162747ac595",
+    "spectrum_sha256": "98f29f05b548a0078cb2cb4bc4fdb21fae53ffe5b5eaa97ab73509b7aef3dcb7"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "e80e270f335ff0b6c7ce51748255b731850c55f2932f5b769c15903d466a7714",
+    "spectrum_sha256": "4c20adb7491e925b89b9aaef7584afa5dcc66d9086006f3983cbf978a4f91c2e"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2777e81a2c39329e8c292cbbb08b152b498dd227f3b26fa4067c8919f156ed38",
+    "spectrum_sha256": "8c009523ecc05cc68f17f168f282c95ae2bb89cb57a5623acf85cf8f1a51cd3b"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "182fab8aa8bf7d47ec7bbe30ea79cc8e2919f7a1aac83f80d8e3186b8314d096",
+    "spectrum_sha256": "57ae7e16ac199ec1766a399e9864cab6d4d74d6478dc8ad056bcff2fab91f8e8"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d7da716f3b11d4a5e79d7a011f5016266137a2bfc40c4e7ee668eb6863738ab0",
+    "spectrum_sha256": "da4b3f5e6f4608e69454394c241a352ce4f453d66c9af47509849eb813573fa6"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "237e162c783bb96adc81d5e0b8a5bfee73da58af66c6fa8666b164f9a2a89f50",
+    "spectrum_sha256": "59e6d3b904cfd4b3df5bfd5f09701d579177e0410649ddf45ec23a5a778551ca"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "8dd73ccc6041f5487474835a3a9ca733178dd67fa9b67ebad08be08e8cfa7074",
+    "spectrum_sha256": "5de49882102c9a444a18caba171a406407c6482201cd5889e802846b19fcb41b"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "4b49d8f6c75190e56812480bd626d0a5569e8c861dc83dc1bd7e2739f876750a",
+    "spectrum_sha256": "95e59516f043a011d81e939a058b00c5a4fdd8a0c11e1c02575a1d10c363582a"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "46045df40db4e076bf2a7ae6e7707ce9a78659524a01b0acf1369aa4f6c46add",
+    "spectrum_sha256": "87e0a825d46c63d9d38b7f9da9ba20b99b120898a2691a85cac8d1ca980b74db"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "0ab531865db6130e553ffd343ae7db1550f267d6a553b5f280c0052b5ba177f3",
+    "spectrum_sha256": "ebb5575872247b3a76785a4c5b06362728af859605f633f8dc14b826696031ff"
+  },
+  {
+    "elevation": 1,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "421448f0b351ae1603ae7ab52d292f6cbb804dcba82b55b0b71bbb097d36d0c6",
+    "spectrum_sha256": "7cc4692f32da406107ed243f4e2f615660f1965007837ff3d17beb9ca542b5d5"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b008b405f7f222ae2453abfa44534c8bcb85e2a29fc3159e50d080ebd5ba6d29",
+    "spectrum_sha256": "d9af9a254d3b62f1bb1009de68fa60250aac01abce49d3f2a15447aa2c281efc"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9b8c0e456a2fbedf958e2c3a0c9bc0a3e6815cf51b4378c3706f35db469c3b64",
+    "spectrum_sha256": "32ab39ea67ef68e810087537b77756efbfbe147ac00684c52e47d8c283507bc3"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "c5be10c2d1411360c902b92f5cf2185d52b93b4d9bca9ed4f8e6fd0759b97bb8",
+    "spectrum_sha256": "7e7c2e0a181813dbff0cf6ab76fad3334ac841e09b9ee1601bd92751c8ad29fa"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "dfe8fee556c5e847b7e431ca5aa839b21396a8688e24352be6f54d183a8b182a",
+    "spectrum_sha256": "7c772d45a4095dc58871ad06743db36a553a98e04d3de64898b4f838a8f52309"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "33d1d76022a41db0eb429509624938232d165d9295bc78cecbc17226c3790e9f",
+    "spectrum_sha256": "73957ef92a7210d5802e7f176dac064ba5816489910da4384b40e5f9280febaf"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6792b09144b7942773c2a68a1239a61a06aeba88694a1f785c227383237fea14",
+    "spectrum_sha256": "d11baaef4938a08a162f2b19e3fe57af9b3954ad6e6b60029a5b605f629e03ba"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ec3ff504b703bcca744f85a937ba2b561be52fecc10d7ea835f3abcff68af8c7",
+    "spectrum_sha256": "63fd32f5509e8c061415d24533d4b2aa53a47f1ab6776fe15016271910129e2d"
+  },
+  {
+    "elevation": 1,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f57d4b801a367b0bd51445fd94e34edfc1a6e4e4a014bd9fc89c359511709aaf",
+    "spectrum_sha256": "19a54ce419ab0dd893c41e961c5938d3b5b822ad22d1468efd8e184d7f8d2b47"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d716e92bb1c1f95b29ee73a241ff1c2bce74232d6eb9810063299aa70f47185f",
+    "spectrum_sha256": "541ffeb7c86fbeb81790bf282ce6713af6459515866296b7944fd7152b40c05d"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "888428299cb1a7e67a67ffa5b7ea62dcd73145da93344a032902321462c018b9",
+    "spectrum_sha256": "e53e0e4c062de9f073172f5bf2c8fbd81a7336021e3383c1fa003a4b06c60053"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2d255eb3c2e05eb8abd9eec9df0f814c889947096ca348cf1e2b1a14d1c97c1d",
+    "spectrum_sha256": "0236a5fa82b9a3fbc78f245da85da81897e037fb4d68477d1baa9f1f65af6e8f"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a7a93081273036463363782d3564e0b76807abd4e90adcbc9ac71c71e1c3f2b2",
+    "spectrum_sha256": "75a6dc3fe0f4438fd6ff1f9ef194a9f7b3c9d9af0d7a7b376da6ded04678104b"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "51dbff6944118ba0d5e42efc5ac1ca0cfb0a4d5dcf9809fdc1bcbfa6ee991e26",
+    "spectrum_sha256": "5bf352251b0fde3b6d083cae288794b9b265e438d948fc73ae58082ed88538c3"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9fdf315b55bf67f44602675b97e37175f0b5a7ba637c1debea8808c5579f273a",
+    "spectrum_sha256": "401554d69d96c14adfa368ce4f1d7a93be8ac88e61e1865251fb1b08b0d82a63"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "05ff9a75bfa00163f1356a11a8a7fc1ec5a39bec563aff4c2fb4c9026e32066a",
+    "spectrum_sha256": "ec7debd3abad55c26d210249d29d0fff267c5830b1017755fe2c29072f7c60e5"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "5ee63c2766458538b9ceeaaa127da2ad92f54ae3eb0702a47af474da2dc0e386",
+    "spectrum_sha256": "71c27bb1854bf0a516b5c6ffa6a1921f5b97d6b468fc14d270e304d69e4060bc"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "653ce0f3033c32191473f0eb36a60dd09301fb8e30f528892b24f5751b4bcea9",
+    "spectrum_sha256": "8414850ab6359be52a0d17d9bceb065b085ffe39d48dfa2043fd8db5f771c957"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9dd90370f30627f940f46ba93c15c50aa1b39081bb0f9bda6e46f35a9df64439",
+    "spectrum_sha256": "42f2ca9b08615f0af8cd40c2656825c69e51422a6a6eeb8adc61f19cc3d06398"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a4976fbee1c793b5d42ab8234461bd05afc2e5553186b83dd09f70944af52980",
+    "spectrum_sha256": "15fb402e0b5f91380faf76baa0716bdaa59aec9e3b2614ace98badd6778f23c5"
+  },
+  {
+    "elevation": 2,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "5445086537cdc7df2d7cf25dfb4bd3e6c6c8d771b2a5cf079952a736e4ee1c49",
+    "spectrum_sha256": "1425c927be0676966e5f1e899bed29fb31030b0b6b89a8315674da5dbaab0c7a"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ec0f1a3d8448a3060a3ae1c3cb596e6078f33e75033cf4974508d0c029bd1d2f",
+    "spectrum_sha256": "055077fcd5bc66312d9151842eb3436d61038f88f522f7bd371bb247e789c6ee"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "65d6c7ffeda1c1ff2154a793f1b829523f69a5ee6f42129aed93fdd6d1ad50fc",
+    "spectrum_sha256": "1514d21519ed45e2badd7e223a170e602daf387f5bae7ee06cbff218b5cca6ff"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "fb4b84d75b9e115f032c8820c509e29f5a4328c4f94b02607cd20d8a16cd6b30",
+    "spectrum_sha256": "262198efd59367088c8324b220413c587219b45d93a707f933d920df4e7554fa"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f0842150d85849c7c30ff6502f88cc88634a17bf44e0307820b2d2441522afdd",
+    "spectrum_sha256": "d17bf11551e9097680ca2e32468a46f586674a1a4de6229eb3cd3ca2bec19e4a"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "754245fbf48de28c5a1d66746e548c6da7557d40964fdea326e4c5e915fff9a4",
+    "spectrum_sha256": "2fbd3175a41dda1e8be101c105e073ee85330e16fcffcc4b1d721b5778086fc9"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b9395430c712cbb094c8fb035ad36fccd43e86d2c6b3f0582d7a92055fec6bcb",
+    "spectrum_sha256": "8762dd9b23ae601aba1f33f88fc2c47be763cc7e9eeed2f89519f7c535a061e6"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a864741b370485e8ffe42c8cc2f4ddee93c94b8416635a6d523884a7d6755e1f",
+    "spectrum_sha256": "ddf1548744c0059779664183d5de6a7a31bb1a1af9f152dae5ff496d0704a94f"
+  },
+  {
+    "elevation": 2,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "aa7c812749fd053885eb85b9a7cb402c9d38bb82d82d978b1919f99775cd304e",
+    "spectrum_sha256": "e7854346f58e8fd44e56d8f95b8afe213a9bcacfe7ce6494704ddff86764c6e2"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "146eb1d9d35868b0a17aa22bda1c4eeb06e21868846b4eabc340eb318df87488",
+    "spectrum_sha256": "681444e26197b03b984dbe245277f08852efe375f411ab4406ef250f5308cb25"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "67fd523773c015dd01bb3e7b9ff625c56158197619525af28cb2711703b554ae",
+    "spectrum_sha256": "d6aedda93f4861501594d9e14948e52f105a86aa2dc229841ee1931aa391ba9f"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b0323dca7c970c59e16080ef66f0116067156cb0630524751fe738911d76a299",
+    "spectrum_sha256": "ad788d56780b934fc72c8b0053122b0abdfa190b9afe649236aa058e6f973665"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "4c4e3354a9022116d30b2a637ebdf89a6b831ed9b1ecc6ef6a31a0fd738b81a2",
+    "spectrum_sha256": "3e88f552e0fe7ce746fb7dfa26a0fa66b4909eebc3fa6768213c735dc25cd911"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ec239ce8989aa36c0106f17fb9d7f9b7c9bc4d6b3b787484be705d17493b35a9",
+    "spectrum_sha256": "b165d977f3b089b88d6fd1e2cb6be1a2ea73250dcb871b7cad54caf2b6fedb0b"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2896cd113fbce0de5fcef5eabff69dd0f7f77abcf00b4645dc3c6b19fb85f96c",
+    "spectrum_sha256": "09f9a2cfd1c3bb486ee9a92df34cedf603d21f9a2d2c526d5951353f9628de02"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d841a267b22a6abcc23fd4a5c6e2f8adda325739dd81b81c5a6d6dddd364a4a7",
+    "spectrum_sha256": "00ca17cc9ee5b9f2ee4ac8e33ed8f9c2b65effd6242a2e715effcfd4ac59b4c1"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "8d4f9351d31435e0bec3e92dca966acfe82d51ee9ca661f3ee9790242f386de8",
+    "spectrum_sha256": "2b9382153bdef865dabb93f85478d0bf6b7be5c72e08fcbc633bf4b8fd80a6b4"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7bf3a1ad05e79f7e5dbb13dca1037bd48a4dfc0bf0916a05a2526cceb7e10e45",
+    "spectrum_sha256": "8f592593389131f92b9237969c1ee0762d38dbb26e5e9324c1e65a380236c27d"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "dd959c73f249c326cb23e5830b8fe1445fd415d1ccfefc602bf4b8375543807e",
+    "spectrum_sha256": "3d311d06c8973a3468a55f401276b3d2324cafbf3431bc05292f825a46475057"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b3e92a239fb2b2d78c618fd2c7ca8740d63b7c2682d96b18aa32f790056b21cc",
+    "spectrum_sha256": "a3d0707cb65d33698ee9186cfb33feff49ca5b7b6fd093ba48509108837c3ad3"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "dc7692b5ee9c71bb6ff79f3b50a864e149d13a64037c9facad7453bd63b14ce0",
+    "spectrum_sha256": "c9cc0704e410e419c417a1e433487eec453aa8996a63cd9fe47fd8a58983e00c"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "68ff560921064b7089ff67df532d72433f68c50c9aafa9999f277f7d8f5c05e6",
+    "spectrum_sha256": "08583ecd32c2978a781daf279a1f75e276deb3754717f3da9145c279db667d6c"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "93ef16e7f895d5f24d717bf2a01aea4df1d979e46485d85ef03779832f178087",
+    "spectrum_sha256": "7963371756c28adfbe7e4dc4838ea1770201f262ee2e9fb78677a53eb25d99ce"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b117286f6d49accf0426eb35081bdfd31e024dc22a63a1a4d895120936efcd4b",
+    "spectrum_sha256": "ae8f23441e3e498c161ba9cb4c8192b56706244b596b93133cd1339c4e823d78"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1d0a28847d339bfe993fa722028171985c86a31845a219be7d1c3fac4338f522",
+    "spectrum_sha256": "7647d23d676a798cb239e67840b85a62769ec4ea15c46f6398f2369f83753461"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d2a5ceb913b8c461b15e71f58c8a9b4a5d28bc4c3173c67b9205559085e5015b",
+    "spectrum_sha256": "7634666dc83277c56cd9f14dc6dcdabefb83e4f5fe5f6331541fbfd759b270d6"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "90615b3efc70e74dd273520c2e7df2c177b1945ed505a2bc3c34a3f398e1954b",
+    "spectrum_sha256": "a2b61c8efa71c76dfe4dbf6ecd41c1429af925af5a6bcaa96f901fec85136ebb"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ca4625bb3855180e5f00c10862aad24a533dcc21444689fc4ad6b2e84a1bd5d4",
+    "spectrum_sha256": "5e8eda461f4d06ff6bcbf11b6e818cad94f3c8e5a5d710a51ed3a5e12e6a2102"
+  },
+  {
+    "elevation": 3.5,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6f979ea86dadc934227952720fbebdad3d7fdd20c2b329fb3acfe0d2a9e96413",
+    "spectrum_sha256": "1fdbdf507851682dd799e981d38ff3c47f181d422165c52160523daa95f35456"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "42fbbb443adaaa453e137fae47a482c93f8814e9ca406a49da1f3dca5c56f600",
+    "spectrum_sha256": "1903055935e2b95c2381658e974795bbf6c17ca9b6aacc3449987557afe057d2"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a6774d1c26aef74dcfc035c2f71b8ee5702dad16ad0158b384ba2c384d3fc179",
+    "spectrum_sha256": "bbeb458c1e4013e50732cd6818760f3988884def1e65905ec88720c71439e578"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "557f01e5c2afd582b82e840b0601f9a5ceb842336d8ad3a02f9800df62629454",
+    "spectrum_sha256": "ec49cfce8b2d339685a0073f70622648be15b360085821bb66b8dee33098f3e2"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "0afb0cd7bca98b312bbfff86d9c6af6d5d66d4ed7206dee84d12e50fd57c21f2",
+    "spectrum_sha256": "418a68d7d62cb813ae17d54ae746b5d22c01a56a9669f14d40ebf30d1fc9864b"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1ee003302b1de0292d5d358d35dcf7ec311cf468a5cb25130ec1672da6f0a2d1",
+    "spectrum_sha256": "626176623d9a14a482c786939c6ff43d111939676f2ed5e0c29c86ed98ecaef4"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b9100224111603bd18262c85fcc1f0caaebe9e9c88c2bc479fbee118c78744e5",
+    "spectrum_sha256": "544ecd2789cf689c5ee4868a10631224816bd8d9ac5d66335aad37f25430b3fc"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "c3d7beec3ed666186f773b09b1fa5d4a1920b7a685b78c48cd87ab20c574776d",
+    "spectrum_sha256": "1e2569d9646ede247fd9d78853e21a11adb27618f38473733078560d5501b998"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "edaf47cca591ce933089584bf7b342920c8f24b36caeacac65afc608d9d69b01",
+    "spectrum_sha256": "fc91de4980032f7438c680f4029acefe123f92202bd86b7fcb71c427f4c0e951"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "73503c8bbfd2a60fced1cc9fa84849eeb3b1682c27b2282f0fbf444dfc6fee10",
+    "spectrum_sha256": "7714863142c73f2d87f9e46af2c2c4c79c3cc8fed3e6766a5a58723fd34ce60c"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "64bc8209ff68d8cc411417e146ded2af817301d2b04443e03a05695d37451714",
+    "spectrum_sha256": "9a33453adc64057d363a4ffc0948925d550e058f7f51b1ac9d7b3b55ad299b0a"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9db3be0fa4344a0945e2205851ae4477f815d8e5e01e153a291ad3d397d91a58",
+    "spectrum_sha256": "0c4754b96450c979887131215b30e187053f5c8b4e3664830279980613f9baae"
+  },
+  {
+    "elevation": 5,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f984b4b1f347db3e57285b9f0c6dab857973638b4cb1ffc6e34d6434ad9c46a8",
+    "spectrum_sha256": "4f5cae75ac88775314804944cc0fd1f99f1fae5060c72048270ac0f3bd37bce1"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "196b4e7c53486079bebdb5ae30e89da1c25f7fc37ac19f1c04764f7660e18152",
+    "spectrum_sha256": "add857f40ff8b17a53541f2b69e3dc81c09d6a7b8581519ec93f00bcf51cb745"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "050e8c63c6d02a39d856b1bb36fcfe594312edcebbb17e56cba8e19e4f6dd9bb",
+    "spectrum_sha256": "4e5797a8c3e62cac4fd5ad79a6c45d937e0d3a68fce78bf08a3a7b8756aa9d3c"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f889e87f076825b19dc2f14ea4423c3d1e85960a9fd1b2a49bd4ab72f7d7eb3e",
+    "spectrum_sha256": "7bef1851ae9f47c38a1a1bfd501abf0d9b316cc042fa63dee04e010274345192"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "73493ea20a47db0dc417d6d1f0d1ec328d234c46b941f9ff37a42a84bcfe4ab2",
+    "spectrum_sha256": "4730ae6119f4d261f5ff46528ce193295fc7d1effe558e75b529db5bcf83b971"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9f2872edd202c1a861f66d2980f479bc5d4831d3b09bc1e9f9d3802b8cc54fc8",
+    "spectrum_sha256": "8b44007a3cbc64fc958aed526edd8bef492ce60ae704872d49c79745652ded41"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "0a3c298f83b7897f5f907f3f852c00668e021299decaae6e8782574bff8125fa",
+    "spectrum_sha256": "456888801481ad196a2905e805e0ec3b5d1afa4f73d095656d98a26ad2321cb2"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "8a75bc103522239f3c19f1a15923d3116d5066a86721f6f9a43f120752ed3c65",
+    "spectrum_sha256": "a7cac7ab51ba88d358dcd8a0f65cda7d361de755cfe62f8edf2ca289bc96c260"
+  },
+  {
+    "elevation": 5,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f1e3fcb76a4a743d0449102912a06957900291658a1239a94998cbd1a612bc35",
+    "spectrum_sha256": "396ba7ab724783f585493db1cbf96ddf15458a107b87a247928d88199f87d5b4"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6fc18f9f1b7b928d8b75cb6162396e7150404f6ea00ffd6a903c3ae3e403f8a2",
+    "spectrum_sha256": "b03d0dcde6d6a5d1ca57bedd16c44cc6a5f0e03ff2f47a17857e895e87290969"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "5f137f4c0945e3239e7184163ac4f6d257e593c4ba7cff19069c06d44c202123",
+    "spectrum_sha256": "ef377d5754102781e2a1cf8d36a31c62669af0621bf068536e7564904a5b5763"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "cbe99a53552f4471b76104c7038742a1ca4f24d29e8cc5255515e06aeb3412f0",
+    "spectrum_sha256": "a1be28dc513beaeba6c948baee8bd8b7d07b47fbe451bfe4a87956bedfeb7baf"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "30a9078b2deb3e9767693a7358579928a350ae618b7d6694d188380e999263a0",
+    "spectrum_sha256": "7e7ff098bd09a6a09bc3d79dc7958edb3c155b153c231be28488141a94dac704"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a4fef032933eccb020912a8148073347c5e0014fd8d7b438236d3751d231586d",
+    "spectrum_sha256": "ebd14c10f5e731351763c69367d01cdfbbeb46e562d974ff5e18227f8542bb36"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3d4825c49b97f336ce02962cbb103b2d6b6cd1a1c22b1dc497b2b335988b6f5f",
+    "spectrum_sha256": "b8659235ae8dd2a5379b93799a24747068e6d473859b73d81134ad3cd1b9bb41"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "cae2a61953761e3d3ae807c87dc6adf3625f70e67434c07af7f68f1f88e6dc2d",
+    "spectrum_sha256": "6b67c834751eecbade9de1f7e3572e72c07753f525fa791558784ba27c122b45"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "574fda33e59d06bf59c05faee25271750a952b5ea38b25d0005fb6127d1a34e9",
+    "spectrum_sha256": "c154d4b581fdb70411e6f524705f6af7b174622f10420a362f5d7688ee7e7f1c"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "117f6282a960306b377f183327c630e035f90f8b8fb6670376571a92ac5e64f4",
+    "spectrum_sha256": "ff53e1e1161c709cc3db13307d6e8981fd5c173cbc80063e51646877e1756408"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "20c45fa98a2b734f41fec025da9ba758f6fd5d324ea27418f0abf654c0da2c9f",
+    "spectrum_sha256": "b4670b904ce4875ad3a861dbac45c24e079c13b4bf9403af471b7a9a0d8fd191"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "cc56f55e6504d4d5aafe219cbd1ad4dc9c5c4bcef7f352f8ecfdce6a6d1585c3",
+    "spectrum_sha256": "344dd67a587d599ab7ef098f8b491a6eb758382862a329ce9fbf203e9a73b178"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7a056ea0ad34e32fd48d284525ca7ddd653bbaf6a6f021170090da44a50c5f20",
+    "spectrum_sha256": "4c8fe14ded1de8253dbaa7d8c251a6114971f350b1ddaff7cc6248097c1d67f8"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3b1a75cb46a84a117d9c5bc12a781bc30423bc6d15b5216f9b90d3f790b5c1d0",
+    "spectrum_sha256": "d4eabba57673f52ed0709d6329fb83e850d9c6098b995f4b46fd070d11c55dfa"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "440928491e6e964fe774a1cad2c3ccd1b964115ce23035279e622f2ea3e01dd1",
+    "spectrum_sha256": "322dfe33f8d2ccb0519e61b41fd9c2bb2abef9d3d6adf00c2ed2b223bf458148"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6065223ea21d371db3bbcf624506f4f48a1e10b4efd3cd7474cdc49457a6f56f",
+    "spectrum_sha256": "c0fc6b735922d78e33ce05db9a0c790b134ad8bda1a7d94695e527659c0443aa"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7fd7724a5a6145727d031c22a1acc0d5373e63f696c7c707ea7b45a4518320cf",
+    "spectrum_sha256": "0082952d04c592f011f369f5c0ae0f01f11c75a60300be39480eb41ab14e3bc2"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "55722decd18ce988ba98fd1465e8fe4acb19e14204ec61374e31b3a57ccaae75",
+    "spectrum_sha256": "9b507c4cd74414ccaf2ad33432c4a92a42e4db8ff80d0c7dd39146af08779254"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d9cc62b4449140a13a63e42d89f5821f8912e3de5fddeba05b4e2d8596fef0ed",
+    "spectrum_sha256": "feefdc191765c1e38f5a98a42350339874185ddfebfb6baafe468be03305a17b"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b4d5255d5677aaf8a5939917fc09ca50c0d7276bb94de84035765a1754f69d86",
+    "spectrum_sha256": "c0c61d2c697f2a1975ea409903bdedbbc17cb5a8f3a54ece01e94220aaed2473"
+  },
+  {
+    "elevation": 7.5,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "e70811fbbd5ce9fe1ba55593d284e550bf32915bea9441173c2079a0c345d415",
+    "spectrum_sha256": "cb7d6cb1348348a4da8ad2902eef900e2b9d706800f52b2409a6db4d3a6ec5d4"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "318b9231f2f980bbaf859f5d8580cca274eda182b372ea07ca19048d4766552f",
+    "spectrum_sha256": "f20fa46dd93c2c19aeb51301a365b29093495e6e4f90696f68b83f243cce05fe"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "74f9437291110ff83a180c4cb433c40f871077aa5aeb74d6b3665e81c9eeedfb",
+    "spectrum_sha256": "0c7cf93cb4c87980880161f555792b3070568b7ab09d6e0cef981b93df980df4"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "5db24ad19910a2e3d010640f9af39be333453ea7db0c67e27d54326cdfc37a82",
+    "spectrum_sha256": "6758b2a2ede6e3f7d1acb6b3acd913a28f2e7d97cb531b58c14c22dc841b5bad"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "bf8c72562c98966ad994185505f7f7c90fa348d6652a54799f2eeac611cabe48",
+    "spectrum_sha256": "615c5d756c83849ebf56f83bb184a126748dfc23b7eb32acb3d6b41b492ef2a7"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d9a1cb9f15a66dab1e2983644d38a9f56691aa7606e689718fbe285b2d942230",
+    "spectrum_sha256": "1783d1190e0297de6e7fd9d48fc39f898ffefe45e076295d84a4162caf2f2582"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1c348fa95bc1f7cc45acf9ed2c4b049c5bc3c2ef2bd9b6a331c186fbabe48a0c",
+    "spectrum_sha256": "717f46135b7f5d29ff388064a4c45dac0030207adfea7c065208d815e926d1e7"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3f5ff403fbc0534b034a6ca8b29f43ec9d1a590c8cda5ff1bcdef979f10febea",
+    "spectrum_sha256": "dad3e19c69041301c78b889d1a0a1715cfe61a4e5fa4c49e73afe9fd48086035"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "fa54f8d42ecfc93eb0645a9893d67e77ae7d517b9ce0fdcb8bf37d8688e5d538",
+    "spectrum_sha256": "f83e1771b563ee1f98debff032410c97d3cb259f9baf588c99be8d2051878418"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7b15451f4daa68af4886c428edbeabb638afcebf8875ffde6485bc6b38acb07d",
+    "spectrum_sha256": "12b7fa4ddadaadec7f7fb6f9fa5927e0cc15900afc41bf508b1fda805577027b"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "41658aa3f18ea2345e934704a51aa18c226fbf9551424f860cc81e403153adb9",
+    "spectrum_sha256": "a7003a966393b6dc854e9634d3e8f03395b48aa8222df2063d01fc299da3d57a"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "28717dc26a5e17b42521572d1973d1f66993a3bdacb09844f3f6ec6f68426f2e",
+    "spectrum_sha256": "31c2a25971054b5653a0a2e1a3b39ab6c72ee9213092912223105f27efa07dad"
+  },
+  {
+    "elevation": 10,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "11a2eb1fc4c235a5b47ff04217b3442c2bdbffde1c12288b1fd0528e4cb60b28",
+    "spectrum_sha256": "6b5f32066e6288b4305998ee10cd3e4317a9d96690c0663690c159e4c227747c"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a64b4331e53dcec9bc0bd6e2579064ccc602997da8296519dd1dcea7c7b6760b",
+    "spectrum_sha256": "e800a1f8ca838e4386db98f9af0ba7ae6b722f72b06294a56e560b1b8bd0f53f"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6ee7e91ef5fbf241251d3497585a07e4b3979cafa2b5e7feb3a4055c5afe430a",
+    "spectrum_sha256": "abd40f4c45b268c6207bba07f03eac2f06645e588641a50d4c2e56d0efd59c5e"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ca934dcb10989cadf8a477c7449b7133f3f60d2d19d0f8c5a68c02bd28b72425",
+    "spectrum_sha256": "bd6c2f9850d9702763d207ef68e04e573b914a7132a1bccbf41b9dc8863b40ef"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "38b52c1921b7960b47d618582c775d246895b8e1867bb62dab1d96447c2474c5",
+    "spectrum_sha256": "ae2e870f7c56a732d963422d0447728516fbc0e6088f2bcf7ccc7183c2dcf50d"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "da0164a598ad80b60be01bd054941d863c98f709bad9f8d2c1ffdc82ae858db8",
+    "spectrum_sha256": "8d617b08fdf992e3c583248f1afcd6f8605d446eb0436c44fd91ff1095136d6a"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "64ac928097463ee5f4759e9fb2aa0122a0bccfcbeb040702e822d1dbc0c83a15",
+    "spectrum_sha256": "9d3e3c3ca9276fb2f4489da5821e8469d07e19b7844c59a3d81e99508afb16c3"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9e7eb240fb2f481d31740b2ddcf271ce935407268e4d780d4726c8df1a702a2d",
+    "spectrum_sha256": "0df027c9cd3d123b318802562ffbf0b474d10acff1aefd9dfd40cd6ad1bd2d81"
+  },
+  {
+    "elevation": 10,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "175f9da7f1a3e8ee0779b249e5d7087be0b4da2595bbd627bae18b588dee7c4b",
+    "spectrum_sha256": "663360ad08fd78eff6126367ea75582cbb3d43a294c2cd100285f8e7912626a2"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "05f67e26bc63cd3016ec5eb64efe12dbd6b900ebfd61b8c3665af62765433255",
+    "spectrum_sha256": "9282a3a39b88faa3d3611934918698f0caabcf115152fb2c4f3f505f5951bdc1"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6bfc4adacdb9311a1317302ab4851cbea4d714a8dfe32c3f98811516d55eddbe",
+    "spectrum_sha256": "c800b11fb04cd1ee1570b70b05f72521afc0b2d1bc3c259f185134bd1e3789b0"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b1b66aeb9510525d622129dc20e3e5d5c35de4873e476c51e58e5d1ac99e6b7b",
+    "spectrum_sha256": "262e7c594016b8af4e30873e21eb3e2889eb6b9496f6d6708b2cd68634493f27"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "0c505a26207bba1f03f0ef4a57dccf766b17f34b84c48a614d85a13be6756d6d",
+    "spectrum_sha256": "60f2b17ecd6f251476615c565600da537da1463d88c9ecab82ae335bf8883de4"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3f0b43962bb92271debc62391471a3deea2301e5944c492d74dbc21b5a49a959",
+    "spectrum_sha256": "bfca15ce7390d03b7c50798568946340e8be58bb5e0b05fd3407b7cc2055d02e"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "69be549682f2f6440a27082586f0e025441fbae96eea50ae6c2dc9fdb28f0dea",
+    "spectrum_sha256": "802fa19b72c815d3fa45c8e05314e883a9dacf18a3409b5417efaf34c1e726d2"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "39fa680d9ee7f2f8bbf71f5c170fdd401278e0d1cac6bcb5874cd062e3507416",
+    "spectrum_sha256": "3d93d37d199dcf1ce11ed45a5d2dcbeae5d6c5ba333caa07ac8f6f3aec57c334"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b86588307958fd1ca558dffdeda67ebcbc86cd7bbb7f0cae10916f7888a6c78d",
+    "spectrum_sha256": "b3e50eb30763c232bec93d7bb8d8b9bf4be7cfe667aef3a155b7bc1430806bcf"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "bf007a52733a1a6df10a614165c971ca43d1cd3b7e8f9cf1876bf94598e66178",
+    "spectrum_sha256": "7fb06bc6c0544ffc90ac193a6a82922d41d6a368869690520f81c6dfa9c76c5f"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "80c7de8660e0ab93a74e4cb2504d383646a4a43c0bdeb199501b5cdebd5e0fb5",
+    "spectrum_sha256": "6755cc0acc39dec84db1eae0facdde089a8668d25c911effab10de661dc3739e"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "913977e08543534f399ac66d78de0c474f1651fc699941f6e57ae40ac768f79c",
+    "spectrum_sha256": "c0a2118c2177b57a3c693f7cf8592b0c052a8a89ddb1f742e9c07a77422ed031"
+  },
+  {
+    "elevation": 15,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7732b725b859839ce375a3368418afc50b2779cf283816f87f145fc9f3765694",
+    "spectrum_sha256": "a6ddf55d48a8a2a6c79ba017b5e0e17caac96f494c32b40c2c497821cde9d9b5"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "320dca64a6d94e822042e1c80c4bd7ec739ffd25dd2ad2fe047e1f09ba8140cd",
+    "spectrum_sha256": "1b54c0509cdd126215436b77d4a29837005c2f999118b499ddca1b8a14372c94"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ffa75e9c45126a19abfe5ac042d1cd49de48eab6d9459dd08049ea961586f941",
+    "spectrum_sha256": "3d671ef820bcab4ac059ff474c55dc30b76c0d8b787414c287582489eb79424e"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "dba470c421be91173cd4ebba7c6d1f3c8b0f13b1fe42c733353c2e6d2fdbd1ea",
+    "spectrum_sha256": "a3039d0c8f584cd7693309b4e99e848453386d864858be0946cffe65f6f13dae"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a88b8baf60cf1b78511a5dc922c3d8974b5874d94de42e04864f233b12c66207",
+    "spectrum_sha256": "58eb5aa6f79d155c829bfa0b5c03065b4526705fadca71ce283b02419f8aa8de"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "bf25870b3580c676bb32dc52dd4dbe059d12dbbe3b0117bdc0bd7cc58727b0c9",
+    "spectrum_sha256": "cf1f86ba1a7df2968c9c6073a3eca87a902120432d8739148e20277aec5f0789"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9f26b5a38bfc7ef7b2ee66dcc965c1cc109ca9b99036fb1e95ee5cef2e87c227",
+    "spectrum_sha256": "095241ab5668f64bf1f48ebeada6232c7b796192fabf030d7631fb7efe576ade"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "653690032dec4a7cc6e3542dd3410c4333b61d2e505c392e6b21647fd52a119d",
+    "spectrum_sha256": "b31f6f74e70019ce07baec8e5740893f32dc21c35333c3b800dc661692b4eef5"
+  },
+  {
+    "elevation": 15,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2f98662fe34df78baee04ab649e852615853432c11df65d0f5cf985aa324b20f",
+    "spectrum_sha256": "72001d5c899e3fbc2cb9deafe80219656b7ab7a9e142e73bf79dbdd0dbdca613"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7c310f6cf5ef84d710570287c94085dd84560809c2646e6b8556df34d61fdf18",
+    "spectrum_sha256": "620cbdd4153762208c1afc295ac67b42a44552ad6d91e8dec9af676704b39dbb"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "08559c5a2c53be7cc9f7f628a80557394c65229f32a9eb75cf3a3b21dabd8f99",
+    "spectrum_sha256": "d27ac853e5b2ce6cbab2a00cda3d483a01cf7c8fb1690aacdf8745c03c6177b0"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a5275bbedc64e33fdb75746b2c1dbefcd46c46f85bf80d56f0a209d2caca9613",
+    "spectrum_sha256": "c87a1b068b4aa1b55eae10a9a7689347c745f8c6c38824af406357734a6fc476"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "85423e1e64a5517658259ea35b645a5ec47645973e4ff2ad42d99ef3bc8898bc",
+    "spectrum_sha256": "801818caea784dad9858cf2c7aa3e2def7bff02e3f134e2644ac55c85ad24eec"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1bf2f14f61ef9e6a4daf31929ebfd8afc4fccbd88f22ade02c39c778946d5f83",
+    "spectrum_sha256": "ac1409cd745a935435663894a7728a4c3340500978d3f7f80b8d6b55da13de57"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "5e27a6aef53519dfcc25e338d0b51722ccacf3408daa903eb26b2617a8204d3a",
+    "spectrum_sha256": "8fbd0ba58e0faf8188ad70be41b158e4c1160d13a9be181949d0bb52738287e5"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "e98eabc9bc0e11ff49556e3e99fa2b58db64fa711926271b23512cf2d3e10374",
+    "spectrum_sha256": "c4ed2d1e29127ebaa702c50c604c88d43d52183cff9be810b91f9ae58881653e"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "40723e95afd434de8d36f956d2bed90313c1ab4a53cffdc8e21b483d0930cf80",
+    "spectrum_sha256": "f5ea967e934ffcd5c272de1c5489ff58f3a5d020006928c4af166bf0b2925371"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "612c3d0b3dd08cdc7ad6efe3749dc4765f67330bfd1003b5d38f7408a4eb829b",
+    "spectrum_sha256": "3b1088fbf7557dffe4239f237b002e7196c6f04ae92d4c6598861ba2a0da17ae"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "535b8e95b2376ceb3026eb9489f3e61a83e0258daec4b52b64b282ae880459c7",
+    "spectrum_sha256": "819a1ebe22e2b41a95dfff1b5e9bad4efbabdad7455cca3da79101e7c33847e9"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "c6c6b82ef1e6f21cc448adb6ecf936aa5791b29339e26f632cca80191661397d",
+    "spectrum_sha256": "d515a66d29e362dc9f15c0c5f8ba8e9a25619a3b702d4ce3676d326baf4e5c97"
+  },
+  {
+    "elevation": 20,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b6c8645a2f45790237cf0c8984fd074e6fa089ef5f021743a548d68d7b8c56c8",
+    "spectrum_sha256": "a629a2d5d05bdea465dbcdc63e3c51604a41cd046787e46ca3c8e73f19ed23e3"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "bea0db05e3f8ad8b60a364b996c41c0e04fbea75728d31358bbfa3d794544237",
+    "spectrum_sha256": "2e5558aa49b6bb452a165e1992b6db672f95c9ba22f2b0f589d43a5b3a3123f8"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ddf03165d8332a0387c8328ae396c15c8ff8ff4ec22471dda7b77c34375c1d60",
+    "spectrum_sha256": "219fa084cd041e5de762cb13a042d38f36b02064efa5426d0a4953ce9e6f1da0"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3a0980dfe5a34ed200c66b9b4d1a51d7ea8c999a05110038a85f1c5562bb8af3",
+    "spectrum_sha256": "3361d9bcf380f9915ff41da579131e029ea39828a4829bb51ee63bbccfe3a3ed"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2680056c52668d21f547c7f3a58850af0ec77e6bba0162d3e90a91f6034a76c5",
+    "spectrum_sha256": "8e9a13aae4d0732fa161745de6d83677c772a2340806c3268ffe8457d08c47f0"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "47060220846db946ae11c9f3d68f81edc9e1ad9977d3decc343b4509a0a45afb",
+    "spectrum_sha256": "33ca9536599cb3654eef01f359bf6e5300c8f2da0a6c7f69f2d1a4f8546e2343"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2d4660b462dac28961258fa66e55f2f9ac38a347f9f1f4edf6dbf031cfc012ce",
+    "spectrum_sha256": "91dfd1fb5441d8c399bf50cacafe527b4c70d07b3066651c0c3f1f0c5407e4b6"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "dd1d9b7dd4214632949846d2eca7f9029f525733e4bd508555031ae2f5f4d50c",
+    "spectrum_sha256": "9fc5bb24935a92edf2325690f895d1482629f271bba06c28f6fb8a2583cbfac6"
+  },
+  {
+    "elevation": 20,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "91da7f34efcf2feb3ee89a4b8bdc63ad0074dd552bbf8a30b52b59283d9d8427",
+    "spectrum_sha256": "8d511c759fd2ac784bf56dcbef646c0b5cf8c04a77379775a9872fa3188082e5"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "be61dc46dc15118c663807bdb04da72a34123d3abeb8fdd6c94e25cc6da88863",
+    "spectrum_sha256": "aaa3cfd5b517b313e81bf3f42cf82b21ff4c5b5a2eb608aa7f883752d9e8fa1a"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b7f31aa8c4ac2eaea96b9c62f3b35ccaec1c7c7eb87222824b79e5800528b5b9",
+    "spectrum_sha256": "84db5427c27fd31b76f72a54a7b98b917f3b972e64b4fcbece3d570b24eb9833"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d6a83a65d7c2ba71641db83f5c85b92baf558c77a7d5dd56bb15817bef571a32",
+    "spectrum_sha256": "fe70e9b317c8c0d1237cb9c150bfccb6d625939a5832a3de0abbfbabeb2b8c31"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "259657603f78358ab4c55dd7f54830e190d88cd3883d3ea531b83464a52a0bfd",
+    "spectrum_sha256": "af0167faa1c14ddb4909751989de5805b41dd0c910e262f590faa4c432bfa1cf"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "713595234b2dd3aeb1a061ab62e207d34f91f4cecc44d9e6e1bbfac04081c329",
+    "spectrum_sha256": "03d5755a66f84092a3e294c3ca353afdbe45a11f358267c472b74acb78d0a457"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2b9d15cf6e4393541c98a009e0459dc20e68102e434fa5ec76bcffbfcbdf265c",
+    "spectrum_sha256": "a933cb8ef39e07706cac5a13325aa9d9ef9f7770adb77913c4805f7adc02ddf9"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6e114d7c04f0f36a8402e896f7855601cc1854456ef5f8ae7932da791730d359",
+    "spectrum_sha256": "dd2f91b6d5eaf96b1b398212094ffadb2feed36f757ab0aaf45676137d34e5ad"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a9d67273fc751fe660a461bd9324ba9a93fdddd1c5aa7f60d0b19c9dcc430061",
+    "spectrum_sha256": "9df22e0267cba3c9d83bd98866f1c8b14ee242d1b1a4b1454d5c2ed35a0da981"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "94ad040a9db570dbcb8d960b332edfa546f54527a353b2bfcee4dce83bec37e9",
+    "spectrum_sha256": "030a02e33ae979def6e685dfff3a89d5d5a34594d8cb10e5d6d176cb8d4d6e0f"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9f889e95b4c3bfad56f697c7cd1249dd091177034e72e75ac40e1225fc3efe4a",
+    "spectrum_sha256": "77242b361ea084dba09074aec30617e8075bca7c2076d385a910a396da61b881"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "acd76fb443843e97c60177c9758d7541a1d4a1558a7d967626d9e470da2a8076",
+    "spectrum_sha256": "99f757543ecaa89e114c42eef664c09542984881754aa2fdf1bc34faadff9f25"
+  },
+  {
+    "elevation": 30,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "c192b8f4fa53f390066bbc1f9aed7da6d881b1ade0d9b16b75a90927a977ee75",
+    "spectrum_sha256": "86a26074f31ecd277579b7a3be719c74859ab32670b198577d80f82f096435f7"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9edd8b933d092678a4a7977fc06289af559ae45aa461643a18f20752ffce83fe",
+    "spectrum_sha256": "946ad2ccd83c905b382ff8c487d4cf71b84b95326331b70cee2d327c39fe0cfc"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2b4b88da68be9c21dd5225ad218f4e64a5d1d8595f6aaaa735988c8c8747df44",
+    "spectrum_sha256": "1176247ae1a889ba34778d0579a31acbd8866b2a446c5e5d2499c820e28671bd"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "19bea6d4b3fbd81eaa1a7f196ed27e58f6b0a659ec230628cf48d3aa37318e6c",
+    "spectrum_sha256": "a97454d1784680dd8b36ca4e0781b19859bd5b6dfb11cd0a3b61bf82a9d08918"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "aae81f52c868cddf4e34f39af6d7f1fcde61c68d0fcb05592735355525c145d6",
+    "spectrum_sha256": "9612cf8c0a19f2ba9bfb0dc87f0cd0562e5b44369689e045301b3c8e4a9944bf"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "75a98c33b551d6a4db01b2f5f2d6bdc777a6524c2efb3e8a1acea21765544587",
+    "spectrum_sha256": "ba2cf75b8da86adce9be7bc26132ac57865b078051b38f3f9d39d06e8644a1b4"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "132257f1fc083a619a7a38e0a397f8bb4a62d194341c332346fbfb445278f5d5",
+    "spectrum_sha256": "c9deb4a24c31f2ef74c1cbccab93bcb4813d17e569d52cb8957391d0cfb1b595"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "521fc2a77d3cc1d517dea30f0108e4a4b58f716e15a04d066fcc93c87afd6dbf",
+    "spectrum_sha256": "d05dcf9494d97f0e8103108ca918d0c6aef8d92913c35fe84f71e2f9813c48d7"
+  },
+  {
+    "elevation": 30,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "dccceac8f863be8241cce21b4dc806dece9714112cc576c61fdfdcf3ca964f74",
+    "spectrum_sha256": "822116b3b5aaea988e2de854fe98505b762aa123484ec283cee78cc4dadf6ed2"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "55d1d517040162639ed443ce8184c3900029b938edceb36975d6055ee4b758c9",
+    "spectrum_sha256": "df208cbdcce3b9a1411dcb8e4949422c85b0a26735ea14838c67b738cb5285e9"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "c18a71e795527f6dd9d281ab074599845844903f51b6f54b7e1fd67df2d18221",
+    "spectrum_sha256": "92eb50325331eaaa6a0812e65fd5fc55bb575f27197f28a7eec9f85d51a41773"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "20cff76dfe4b51a09952b6257c0595e43d719fe50e42274d0935b5380c46b4a5",
+    "spectrum_sha256": "ef5825d6f23e763afcaf187d43c91ec84a2110915bb5e2351274c06e58f53b1d"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6898a11ef381139b84cbe33c4db6b760384224ec8b4065ec895158d65cad8b82",
+    "spectrum_sha256": "5ae5b70206a7f0852cf87eafbec4fdb09b4de2b2c8f791d184800c950f97ac64"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "c6f3d9a587bc8a9966a302fe145719af0c90ae27e4e9532f783e7115315fdbe2",
+    "spectrum_sha256": "ed2ffd60721924db175ae05c968d17013e0f82ac1439baa7b2eacc5cb9614350"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "be0100f35ad2baae94ffe515ba02f6953d284b71fbdf755eb6e4af7774194e01",
+    "spectrum_sha256": "20f5e6a82fd30e24f1a4e77b28b96348a1f4b356b528d188b91238d4e5c514d5"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d2bb62c7a2dc761198dda0a40f824262f09095b37829d79e624a6c6a8e6a1edf",
+    "spectrum_sha256": "ab72ca968d030ef5ff9ba26924b98ec218ec386e3055795afe17b5078d07eda9"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d6ce3515597f6cb010d84441f1dca1c9b3a78ba3839131eb218c8d11f8ce8177",
+    "spectrum_sha256": "f5ecb607008ebc02bac724669b1e5d0f2f283035475f6f09af3ac79b2c69b26e"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "016db1df7ec788c59505d671d16c21ba99388a869869e73deb583dd102792244",
+    "spectrum_sha256": "67b381234ea95dcde4cd144fedf01173382275d7ed108c9091bb7111fcb84cea"
+  },
+  {
+    "elevation": 45,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "c4697703a86e7d255e880ea3c603e8d632bb0c3dea316707fed96692ab7806cc",
+    "spectrum_sha256": "cfc81aeff34cffa9d6eb70d9246b8f3c74c63ef225504da3e6e271a59c909e91"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "45d2e483dab1cae4bdfac277db6ae0762adbc6beac318709f62f1c32fae270d5",
+    "spectrum_sha256": "3c0cd29835a4c5c101ae094ab0dd7fd3058aae25f06c9648b448925decfcaabb"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ac3bb34d9dca18c65b2daa3f5089d2d705638354bcabc62729642f0d3e6a5410",
+    "spectrum_sha256": "b0419d5f4f91e5fb841853b1e7b53db730fb574f75098a92a432b8b4464a8c86"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "157890fdbeed47540c86b53299568f22ceb5ff838c01578b5cf6374499d92cd8",
+    "spectrum_sha256": "9eef952ffa41eb20f850d45909115d2166d89a226875500eef72ea7313827e20"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "e16e71a0ed586318d85948affde3059780c0c45449de65b3d0cc88a3bc137ed2",
+    "spectrum_sha256": "fdaa38836878321927d467dca4557e38adfe2430fca2e82f1df63ec4288f5bbf"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "cad25d45097fd30e4326b814f0edab79a3ce8aa99064e78b8db923b3bc025de9",
+    "spectrum_sha256": "2e95d359c234f0a2c6dc1839262429f53ad4c3144ed7a9f0ad4eeeb5f20f4ee1"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "4eb6aace9f395682b404cb4387daaa741392ba69ffe408f07887b2ded5109ba0",
+    "spectrum_sha256": "d656f4b7f09260f99389997768a9ec75d8bdceec965296a8215568b5e9893705"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7e0ec8d4aef848e7a19acad62251b7db07ef846645103fc53af3ed798d71105e",
+    "spectrum_sha256": "e77ea9a392d08dade073c066def6b34bbc3d81355f16f7eb56bea936292fb53c"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1ec19f87f20436a200f3893cd919a83ab1b31d1a674378944df404f4369bb6cc",
+    "spectrum_sha256": "d6b41ee6f28b191c35c63bf6369585a56324f362ca4fb6469e069ddbdfa3dfbf"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6c369bc2a5208b9830cfb92451e0a043ae37267e053700f49700bea25cd4dbf3",
+    "spectrum_sha256": "d969f615a8e4306f3fa69de0b91b36f15be80160822e3f929d331153c03768e1"
+  },
+  {
+    "elevation": 45,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "db818d7a0cfb53032bc45864420f7a822f3b9a67a3e064ab742d197d2dfea65d",
+    "spectrum_sha256": "1347425666b0955e21ccce055a7ad7efaef7639cb0248ad02865c3222b517af6"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "75f653ae7fb36e85c85eddb03882350a187c577539ad7f39b86352aaf05fddfd",
+    "spectrum_sha256": "88637ada1dda8b882f9efb2da0361de47bc661043ff85a304b71cac838b15ead"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f752443584850e63d6295c5def7986c6f9914330d972aa6fa0958c39bf667b5f",
+    "spectrum_sha256": "cf29324a7f03af7a72a196c57cd20353ae39701dae894afe503ead964012bba1"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3dc7d0c4cb9693ef6f65be35e2d93ff377d49ddcc2a07e18cbb73b3ca0fab6c0",
+    "spectrum_sha256": "722347b43c4bda608dc220f5b75236032ca69e962a9cac9a952953e8fe42b827"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f521487a57314d33c8911462ee1632d0882691e72712490a865cb4b45d55ab03",
+    "spectrum_sha256": "364773faabb6b1926ca16d4b391d10aa42f84e75f415237c5c8990d1cd58451c"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "cd1279781a5a088a7d4c454c58a495eb8ccda3c1fcafaf590a323bbfd51505e6",
+    "spectrum_sha256": "d043383117fc9877f219f2c277b9577b08189a77f7a9ebca3a71bf659c767cd6"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "79dd92309001d257a267f0daa3c81ba4ac2da24a82d48d5fc7a2a0b618ebf603",
+    "spectrum_sha256": "a2cea0605f188dd3bb98ceb27e11aa1691ae89c1daf96a60010aeb7ab73fc227"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "78cc1e94c65b4df80d53cd38ce86b7d9a18e7b622118b00f4760b87604b70ff8",
+    "spectrum_sha256": "6866d839976a82547e4ba98cd79798434ac835f0f57de64538740df58549463a"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ac0139c5dbe1f7f1e5e6e0a0beb2cd4a9ed2e98aa915c94eb3bd7e93e5aafc41",
+    "spectrum_sha256": "61a5221fe92753ed5c74f5d13a01d0b7719c97b71a4e3982b17ae2d4c56ed7c4"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "dbe8d66d905300e8d29dc4e4e1f1b63706949613bef8ff8632904d5661c92268",
+    "spectrum_sha256": "c2b4c4d3548ca3044286a16583a38c57daba9fe950ecc0c8acf22d792107f76d"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6b823b7006b8873b208a33efcaa751b06f4e48ad6fb28c48dec502e94596da9b",
+    "spectrum_sha256": "51a0a7b214ac3c298645f43e73abc57a800d0c4bb55690fd9597bb17be021f77"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "74d057d3fa49cdb3f732f2acde13388adbc8c2121a92f2d6343b970538747490",
+    "spectrum_sha256": "8209a235df3afcd0cdea93ccfa0974b5a6f3e1feeb04a2b7cddc67cb6cfed809"
+  },
+  {
+    "elevation": 60,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "cc024fb929c3c808d226e8580c1ba09ed267117b95470631643048f8703372b7",
+    "spectrum_sha256": "cdab4fe6ee554954478dab821fb7908eda5d645f741763f510be8efaa288411d"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7fc8005cc280786477a55fc167c9b43a9d8c134f39266bb05e9927b2f7dc0427",
+    "spectrum_sha256": "afb0e6673a853418ed0171af1e63dc68a218bc44da841fb81031ef49c3936312"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "722acc22b5dd2dbadf8bbb29a939a161d2aa2625979c8273b381ad0b86a9996f",
+    "spectrum_sha256": "933ad04694486bf51284a9911c6b717e6cc0c867a1a6293ea7b18caba3958cdc"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a9db68b00a516786e9d8d71fd53b6f5d198b3e20d8dbd629ada3d0e6293392b9",
+    "spectrum_sha256": "22bac0b319281319f5153f9e900cd7108b447bcb50fc1d559d61ae988760e797"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d30855a71021c614e390aa0190a0d604f7eea64c3b04b18c9ae7b715aafb98d4",
+    "spectrum_sha256": "560c2c4dac09cedf69432b577eaef0ea8b7582ea6f8d0f0e3e11069722cab121"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "e5d7579ffecf9f38da12fd2ab103835f9248e24c795180215412588ce31bb83e",
+    "spectrum_sha256": "540314708766ba1054fa4c87255380c89c2873de67aae6d590862dc3d48f0d81"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "8c3ed3b83a7d06da178cdb7e7f69439630569a510ce588711abbf5b29a128a36",
+    "spectrum_sha256": "711807ccb40e4e9a8dcbe2ea5d59f6ae6409767a47cdd1b17ac4842ac5497e49"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d68f335da6cdb712f47b667f9b6f03da0dccc569ed14c2212b1ac737337742e0",
+    "spectrum_sha256": "bc791f3f529b1ea6ed351ae92ca577866b12f218c8f7b74064c0706aecc05303"
+  },
+  {
+    "elevation": 60,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "7e67900e2b1a1305a4dcb40acffbe797673d50dec94178b6cac8cb9a93ae226c",
+    "spectrum_sha256": "74238b5abb1f79b7693792b656c822f06a594410d5785b7de67589ecd02f1f41"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "1db1c0186f0aff3f1eea8af5601093ab0e4fb64f9b1f2f08356dfbc1d3b2c472",
+    "spectrum_sha256": "b0a810d08ef7cdd1a3cc63283f49995f2aa74c8147d898a935a9aa9a605d8110"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3fe09ad195efd748c2634aa2658cc771d217f2b584a5b9bc6afccb94d6fd8133",
+    "spectrum_sha256": "6d181f571246e5c5246bea6045ae0316a2b2f7fb5d71832a0ab2bd329d39b7be"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "2474c62d126a2724d5ec9c81f7bd2ecf1829a60503d243658b0431f993f66fc5",
+    "spectrum_sha256": "19b7b0d47ddfed55b00ba5cc8cc58107c0f8fb80862ede42248c8a6c3c489cad"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "04f214e9b38553716c38d4f2fba4af0e0c6c93d5f27941c8606fc06d14c7e1f4",
+    "spectrum_sha256": "6773502e96a2bafd520ff6d5626c294efd0a6554af018c29edd822224ad310b6"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "337c16e269c5a6993a9293660f35fd7178a8ac5db82d8434ba0aa2c7f99740c1",
+    "spectrum_sha256": "b0591b2f1bee84bb4c1f6b60d7b32c3ad5995455ba9e16ad9d3a1853cfc5511d"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "f1b508219b16333adeb1163c7a5d889e4e53ce8f1a3b9fff79cf607f6f609e1e",
+    "spectrum_sha256": "35c5f12df17e839e55cbc164b693611dc8be3cbb8af55084774e2fd4cc8cf81e"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "64511cbf5d0b8682ae0aafefacb5fad6701fd7a0cde799134447757373aa95f4",
+    "spectrum_sha256": "ae154071714386ba959e47cc672e6d78f0bf5f3c9c9032101ceec8afd947e6af"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "b69d8770dd10391a4565bc907321e3575fa73b1e1fb38b270848fa670950906a",
+    "spectrum_sha256": "a50266f106a14132ef586ba80394ea60219504b60bad2638a2b599537767668d"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "92d225a582306372c5b5a60842876e522f4c10356eb1ed95192959338b861c81",
+    "spectrum_sha256": "d5aea504c6b63df0df0d3b27c186a9202b009d34f014a3ecc2efee364d11b8bc"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "3917b8263cb861850c0f3b4fdaafde23c7f93cc985775dd99682ebbb27370eeb",
+    "spectrum_sha256": "8b087788896ac84514c00e522023acb93ba53c8f15161ca846d9415d014effb7"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "eef35b9c0db7d1966c2c081b0cb5eb031bf520e94d29486adf8ea218d0383586",
+    "spectrum_sha256": "dbc09212a8cc09f1936d9c3924bb36b417069654e184adb6d3118d1a60461a9f"
+  },
+  {
+    "elevation": 75,
+    "tilt": 45,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "a51ce559eb6b5d4d888d2676fb3c413afac88b01b6b339d48e1dbf881f1e6809",
+    "spectrum_sha256": "05bbada3a28a8470dab2ee925007a0b1a3320f973bb8ff6dc495d29f306ad7e6"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "0e20d849571cc0aa9a44ece301bf5c0610a048a90fa52d1d5eeb98e200c7bc1d",
+    "spectrum_sha256": "8dadb5c7e5f23e162f846bd2c25806bd36665932e2c78a25b2a076ceef0b1427"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "9dbdc7e585021becf16dbc120186da8bf051af98f19e3ee509d31ee5a60ce286",
+    "spectrum_sha256": "5d80705ec632a9c9c7f5bec09d09b6ba140f0258ec21665394cc271c5fb8e9f5"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 45,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "6ed21e70b8acd5661c5a540ccd823b5be2c901978ca10ccc7df298b020480e4e",
+    "spectrum_sha256": "564f497b0dfb7f9a3d780d85be4155c7889958976d7f2f92a51aed62cbbb5cff"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 90,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "d17fd381e2677af7ea7a9ff7c4fbbe9f13e1f7dc76a0f8b48b007998cf392d3b",
+    "spectrum_sha256": "f12d10bbb694b36dc171129ab529af3aa87f66460e555e966aa4816792869b35"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "36a3faea2ed97bad3afc8e2a6a349acbefd1e2da91f9bcf67951a0917640d4eb",
+    "spectrum_sha256": "a0d12523a0d1f1d9882ab3ba97879ed40a8afc9ac934efddde5fb8b0f5a4dee6"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 135,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "ebc39e40d123ece4e7fe29e546dbef74ae3f8f2135a67e88630af9870a44c20e",
+    "spectrum_sha256": "a632d717edf74d136281225bd81013a70d499384b500fbf5bdbfd7318bfe0198"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "fbc3335aafbaaa55e5b7925c6b67ea3e507c188aa906098a0aff34237c4d181f",
+    "spectrum_sha256": "aa9ab2f85b9550650feb25caf22e3cefeadf29b0c478799caeb635caf4333280"
+  },
+  {
+    "elevation": 75,
+    "tilt": 90,
+    "delta": 180,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "5905cc08b065cce0aa6c708a71d6fbd8d5eace319a01bf570a887ef357b3cc7e",
+    "spectrum_sha256": "a8ec7e9d4aa04e68a8e00ed5786d1fa91fed83632474e83214e273585875afd1"
+  },
+  {
+    "elevation": 90,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "807384f27fc229fead27594cede516aa9e68b9b06e471f41925a084a2f24a616",
+    "spectrum_sha256": "599dbbbabaddc4f6ab88891b0fee645c3685c2c0dd40a2ba0659dead6fdf9fb1"
+  },
+  {
+    "elevation": 90,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "38e3c938a3a14b983917cbb766a52fde6e5679d3cbfda03eded3ce430e749d47",
+    "spectrum_sha256": "bbd476f8e65e38b9697e6c957329cda0d4946da9b264297ce3ede29d752b89cb"
+  },
+  {
+    "elevation": 90,
+    "tilt": 90,
+    "delta": 0,
+    "seed": 21,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "170ad689c28587989f43346a463b894c7ae52f0630745939219dfd2c5675ee13",
+    "spectrum_sha256": "de73ea12f0b5e72dd0f6bd9a4924f9a24c17d5ebbfcde4191ef2cf871a3ad3b9"
+  },
+  {
+    "elevation": 90,
+    "tilt": 45,
+    "delta": 0,
+    "seed": 42,
+    "step_nm": 5,
+    "photons": 1000000,
+    "input_sha256": "672ae30120a2e08324092d5787655f0e3909e55275aba270da4fa0f003b1baea",
+    "spectrum_sha256": "8add2b736dd8cb7844cbf940e80e9887caad12badc7f25b83e84c8bfa8ed4cc5"
+  }
+]

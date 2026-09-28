@@ -1,0 +1,699 @@
+{
+  "nodes": [
+    {
+      "elevation": -18,
+      "resolved": false,
+      "reason": "zero_sample"
+    },
+    {
+      "elevation": -15,
+      "xyz": [
+        1.7729316502101339e-06,
+        1.99297970495004e-06,
+        2.926615715146173e-06
+      ],
+      "relative_lux_spread": 0.07479698313995979,
+      "uv_spread": 0.11629819399495088,
+      "resolved": false
+    },
+    {
+      "elevation": -12,
+      "xyz": [
+        2.126647076303116e-05,
+        2.029635718846103e-05,
+        3.3371608181662654e-05
+      ],
+      "relative_lux_spread": 0.5131700866682247,
+      "uv_spread": 0.03311736987904145,
+      "resolved": false
+    },
+    {
+      "elevation": -10,
+      "xyz": [
+        0.00012296304278403415,
+        0.00012629708123116683,
+        0.00022611036190248217
+      ],
+      "relative_lux_spread": 0.019358976185681498,
+      "uv_spread": 0.006822240146882842,
+      "resolved": true
+    },
+    {
+      "elevation": -8,
+      "xyz": [
+        0.0007925325948577713,
+        0.0008316795972352186,
+        0.0013436313324099248
+      ],
+      "relative_lux_spread": 0.02273983051222998,
+      "uv_spread": 0.003297069139550692,
+      "resolved": true
+    },
+    {
+      "elevation": -6,
+      "xyz": [
+        0.006117883442395037,
+        0.006353604329467346,
+        0.011104736990186213
+      ],
+      "relative_lux_spread": 0.01687295117542454,
+      "uv_spread": 0.002858167452861399,
+      "resolved": true
+    },
+    {
+      "elevation": -4,
+      "xyz": [
+        0.05184528299731603,
+        0.05406273479113523,
+        0.088549644834683
+      ],
+      "relative_lux_spread": 0.0019194355412908105,
+      "uv_spread": 0.0008061316071596647,
+      "resolved": true
+    },
+    {
+      "elevation": -2,
+      "xyz": [
+        0.33853308945300664,
+        0.3550940825136605,
+        0.5517432836871705
+      ],
+      "relative_lux_spread": 0.0033941168484083136,
+      "uv_spread": 0.0007996307054436066,
+      "resolved": true
+    },
+    {
+      "elevation": -1,
+      "xyz": [
+        0.6962013888773899,
+        0.731724162423522,
+        1.0807969707549216
+      ],
+      "relative_lux_spread": 0.0003455578243671968,
+      "uv_spread": 0.0005864529416383168,
+      "resolved": true
+    },
+    {
+      "elevation": 0,
+      "xyz": [
+        1.2656000533462772,
+        1.3274388724372117,
+        1.837711086217484
+      ],
+      "relative_lux_spread": 0.004292568498502835,
+      "uv_spread": 0.0005904627520134978,
+      "resolved": true
+    },
+    {
+      "elevation": 1,
+      "xyz": [
+        2.0506595680208326,
+        2.1507446955638105,
+        2.839192922810197
+      ],
+      "relative_lux_spread": 0.002691288853557278,
+      "uv_spread": 0.0004483897342353504,
+      "resolved": true
+    },
+    {
+      "elevation": 2,
+      "xyz": [
+        3.081898354768192,
+        3.2246033646130865,
+        4.036858221250483
+      ],
+      "relative_lux_spread": 0.0001783137503311189,
+      "uv_spread": 7.257666046373864e-05,
+      "resolved": true
+    },
+    {
+      "elevation": 3.5,
+      "xyz": [
+        5.163774735638544,
+        5.366614960481099,
+        6.172050814671513
+      ],
+      "relative_lux_spread": 0.0023802133172678877,
+      "uv_spread": 0.0003408087653722686,
+      "resolved": true
+    },
+    {
+      "elevation": 5,
+      "xyz": [
+        7.857026200939845,
+        8.156774047149064,
+        8.792777568703162
+      ],
+      "relative_lux_spread": 0.002337183230141456,
+      "uv_spread": 0.00030561447055719494,
+      "resolved": true
+    },
+    {
+      "elevation": 7.5,
+      "xyz": [
+        13.444510484004333,
+        13.938139518141863,
+        14.10092883254461
+      ],
+      "relative_lux_spread": 0.00013729899007290674,
+      "uv_spread": 0.0002171274634003046,
+      "resolved": true
+    },
+    {
+      "elevation": 10,
+      "xyz": [
+        19.94057427455479,
+        20.672573869749307,
+        20.339867689491744
+      ],
+      "relative_lux_spread": 0.00041339619562150295,
+      "uv_spread": 8.977022326175127e-05,
+      "resolved": true
+    },
+    {
+      "elevation": 15,
+      "xyz": [
+        34.36201846631556,
+        35.64901014191326,
+        34.58968156675661
+      ],
+      "relative_lux_spread": 6.99285764218106e-05,
+      "uv_spread": 4.1896118003433095e-05,
+      "resolved": true
+    },
+    {
+      "elevation": 20,
+      "xyz": [
+        49.50706947661466,
+        51.36017241968061,
+        49.98103930402584
+      ],
+      "relative_lux_spread": 4.367934800972977e-05,
+      "uv_spread": 3.8493946977783785e-05,
+      "resolved": true
+    },
+    {
+      "elevation": 30,
+      "xyz": [
+        79.4223008893816,
+        82.3573347044933,
+        81.09552747920173
+      ],
+      "relative_lux_spread": 0.0002306910088896433,
+      "uv_spread": 2.7862015364150177e-05,
+      "resolved": true
+    },
+    {
+      "elevation": 45,
+      "xyz": [
+        119.44437400109437,
+        123.77141689074125,
+        123.47767297428
+      ],
+      "relative_lux_spread": 0.00026714423498569646,
+      "uv_spread": 2.6853974971700743e-05,
+      "resolved": true
+    },
+    {
+      "elevation": 60,
+      "xyz": [
+        150.35337767054983,
+        155.71503734623073,
+        156.45752088045077
+      ],
+      "relative_lux_spread": 0.00043572940523138495,
+      "uv_spread": 5.646129587067726e-05,
+      "resolved": true
+    },
+    {
+      "elevation": 75,
+      "xyz": [
+        169.81498490338214,
+        175.83037582409793,
+        177.21493006062502
+      ],
+      "relative_lux_spread": 0.00010078082679775657,
+      "uv_spread": 2.5378760354902935e-06,
+      "resolved": true
+    },
+    {
+      "elevation": 90,
+      "xyz": [
+        176.47853220726796,
+        182.71300563558555,
+        184.36874262869185
+      ],
+      "relative_lux_spread": 0.00018799860923757742,
+      "uv_spread": 1.937704692238615e-05,
+      "resolved": true
+    }
+  ],
+  "sources": [
+    {
+      "elevation": -18,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-18_p100000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "bacf68002e3041ff33516b0004017b59be5ed81c7e38a63bff722115e7efe937",
+      "photons": 100000000,
+      "seed": 21
+    },
+    {
+      "elevation": -18,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-18_p100000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "7a3ca3f015553a93c50fc1c6a2e74f7518b60980bc038c85f6d0a4cf46715a24",
+      "photons": 100000000,
+      "seed": 42
+    },
+    {
+      "elevation": -15,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-15_p100000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "ab79786e26b8c7db69a9346422d11774b57f9aa48d51e9f055d927a7c80bf214",
+      "photons": 100000000,
+      "seed": 21
+    },
+    {
+      "elevation": -15,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-15_p100000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "78dcbc453a817f52613079fec147e3bf27d76eab92521fae375f1949bfaad56f",
+      "photons": 100000000,
+      "seed": 42
+    },
+    {
+      "elevation": -12,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-12_p100000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "70516b62ab987826beeb048486627fccc3f92581ebd8a99a93affc8f8b8a6fc7",
+      "photons": 100000000,
+      "seed": 21
+    },
+    {
+      "elevation": -12,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-12_p100000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "95eeda9ca61db583ada9bc9fd576dcf2222af93018c2492dd2e01443d4e5c91e",
+      "photons": 100000000,
+      "seed": 42
+    },
+    {
+      "elevation": -10,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-10_p100000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "a597b6b919e15c38d58c91f34cb0cc785f315f4841da2b380d21fc789a763c90",
+      "photons": 100000000,
+      "seed": 21
+    },
+    {
+      "elevation": -10,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-10_p100000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "d802f8850e81504db993fc1273c2d9f0bd47c4a03ae0c4cf845d8ba0717dd6a2",
+      "photons": 100000000,
+      "seed": 42
+    },
+    {
+      "elevation": -8,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-8_p100000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "ed891e4c2f270a5b8eb3551ec8add2171cec1296068257023aefe4bc57d72656",
+      "photons": 100000000,
+      "seed": 21
+    },
+    {
+      "elevation": -8,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-8_p100000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "665512cb1ee5006b45a25d1011019afecbbeb08b9b0700aa6725485d98fd383d",
+      "photons": 100000000,
+      "seed": 42
+    },
+    {
+      "elevation": -6,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-6_p50000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "87621c8c701d2b6e29a36fc84708abdaf4d38f7dad264e22e5806cc5f0ef8c45",
+      "photons": 50000000,
+      "seed": 21
+    },
+    {
+      "elevation": -6,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-6_p50000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "5b61e4e2a1117c87a4c24a2fd5e422b930a46832a0e250eefbaf955ebeda840f",
+      "photons": 50000000,
+      "seed": 42
+    },
+    {
+      "elevation": -4,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-4_p50000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "b91a90bf600f4db9d2132855d38cfa8b9ab209e5c0f84997e68776f347630d6c",
+      "photons": 50000000,
+      "seed": 21
+    },
+    {
+      "elevation": -4,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-4_p50000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "8b6e45828e88f63c58b7fb4a51c48f132f79f17c926433d01042e48c97571a29",
+      "photons": 50000000,
+      "seed": 42
+    },
+    {
+      "elevation": -2,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-2_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "4e331a6882cc30659241d2dc3f96a2ada6c461973bab75ed08618d99c8df6213",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": -2,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-2_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "e6a443b4b4b50db79feeff6237809d5c6f09c3564abbdc433f05242eed243145",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": -1,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-1_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "210914cc34819538468df1e2eb450f588842e73049cf83821994b726d7cfeb59",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": -1,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e-1_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "f5a84334749e1440ccd606d076308f00454355d5a65e7ef43c3410e905bc7c7e",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 0,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e0_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "08bc6912f053cf8e4d5539573cc089c6876a14f0e3c855d77bd2b6735603e703",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 0,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e0_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "b0b20262ed5ccd1030b21d5e2c1a26a2b3750f03ff8d99083c2d1cb2d5d13ae2",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 1,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e1_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "b0b0470014cbfb517ed17d901744363c5cae4e340939d918a8244313f1b4afff"
+    },
+    {
+      "elevation": 1,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e1_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "b0c7b5945be478933dc797efd18ea8954b128fa797ffc853c4bc2485c8aad279",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 1,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e1_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "d517411957349dbf7c675ddfb7272898bd8a9a6a314655d2153fe20c46f7ebb1",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 2,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e2_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "6bb39e007b67bbc7620b25536a91fdedaa97a8a0ea638486dfa6c5f39738d490"
+    },
+    {
+      "elevation": 2,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e2_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "d85e9611ac57c608808af4d446bfeadc8cbebb9529b6d1824e6ec1e6779ef7d1",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 2,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e2_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "91d46a36d0e7a85b18b715b9350c124b8e687353b8b155365097b89b27e35f52",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 3.5,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e3.5_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "373a6b6485f8b6a93f0b3afdc0d3f5b09c530dbefb3fc3fa3beea334c076686f"
+    },
+    {
+      "elevation": 3.5,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e3.5_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "42211b486e459baa0cbb7a2672afe443b644eae7fde151882b2b1042ebce689c",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 3.5,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e3.5_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "168f72860b533ba5c05e9f8263d81728a257bd5800c993ede59fee40d9445033",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 5,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e5_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "38b0fec94f136409724b2f8ac87ff342f096c5c14795728db5324f6fb23bc479"
+    },
+    {
+      "elevation": 5,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e5_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "53f1ce82dc99fc8a34c62b69c145fa2d0160aa4313064b9e35ef4fc92695ccdd",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 5,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e5_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "833bb27b3a742770dd895e50535c9f2be74fee5be0918455d09aa9b1b3d85094",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 7.5,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e7.5_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "b66b950b9d33f5e1a4e4eaaf9a377ffe15ec2e2a9885f773bc63ca75e05dcc4e"
+    },
+    {
+      "elevation": 7.5,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e7.5_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "c84febc4cad521964307bbd81e0c3a0a35629aea80e5f43f29c4b12da9db65e6",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 7.5,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e7.5_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "96d5688a99633910ebb3d1b965c5814b78bc8ae101e6f0f5b8b2ae5ea0082106",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 10,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e10_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "41f75ee2f52893a3db6a24a62bf2b7df47f314279fb2f3894f71d05d41b0a591"
+    },
+    {
+      "elevation": 10,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e10_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "8246c1fe5e93955d2524e5f1a1cd53ed225c2315f43bf43d040aacec91c578c8",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 10,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e10_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "ebd76b34af836e1f3cda9c1298ec95e8c2631ef518bcd470cda2c41749c58267",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 15,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e15_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "0efb716d9fa194ad382075ba8c161fba185c91d375b294aadebbad3852e88379"
+    },
+    {
+      "elevation": 15,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e15_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "571b302bd32c168e922952b410a61143bedd84f59a0b2809139ed3498101ae60",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 15,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e15_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "d811f1cec6d6a183c6179e51e44f60dc47be01225a070c013a2a636c20fa1e60",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 20,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e20_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "a26f7f1b545b66b132921a051fb1a8b2218bbbbe0225cefb9930c049a98519a9"
+    },
+    {
+      "elevation": 20,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e20_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "dc343589d6ee52814c8387c6a101062eaf1a5bf95d8348b5299c86f132d09c0c",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 20,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e20_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "065304757287e0b39be14729a4210a2b796ab8dbf78f034fdc8705cc9bcc7a08",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 30,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e30_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "599e985ff5b404e14e11fd304d0412cf01f4ed5643ba034c021d24daac52fd20"
+    },
+    {
+      "elevation": 30,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e30_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "3ae5c7ee43f250419ccfb4c8cd2f15f0d88633294f46860aeb198e2b2a3f91eb",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 30,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e30_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "70f83fd0820621bf21c4d7bfc879add2e92ddd015befb3e29ef22bf8a718301e",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 45,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e45_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "495f3588f99711bf8c80dff028def0f09e0702c1e7971f6ffedd425d19b4568c"
+    },
+    {
+      "elevation": 45,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e45_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "3c8c2fb94b7879c20933e8ba408bdf1cb9286a2664d2b5903458c92e941bfafa",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 45,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e45_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "6c47fd44b6d07cbf0e5181421dbe2efc60ca3ba74468b2a9ed03a26460b3377f",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 60,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e60_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "c05aaec369a76ff1897f31abb0ed8eaedf79af3684f2f0d61f525c19435238c4"
+    },
+    {
+      "elevation": 60,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e60_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "6e1ce6d04753f99d60b50c539ed319b26f9dc5fd493ab5a98046c7ffdb6a3618",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 60,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e60_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "47973235e6a786e8785f0c410ae4f930aca4446a56680e3e20c50f955fd340e1",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 75,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e75_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "14a0f399ef8ea188221327c19489a1982f9350205485a3fbfbdfb47838eab9de"
+    },
+    {
+      "elevation": 75,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e75_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "2dbf69a0b4e9a449cc6fa31ef612ebc30295fadbacbd68c25345812f3fd0afbb",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 75,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e75_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "a75c1bf991a22478c44acb2220b8b342405dfc49afec48ff9713e68c276cb3f9",
+      "photons": 10000000,
+      "seed": 42
+    },
+    {
+      "elevation": 90,
+      "quantity": "direct_horizontal",
+      "source": "mystic_e90_p1000_s21_w1_r0_a0.1_o300_g0.2_i0_edir",
+      "sha256": "a7dea33a2a05a58eb02dedb28501e5abac3915b72c35a517d4d9333593153003"
+    },
+    {
+      "elevation": 90,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e90_p10000000_s21_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "9d3080bda5d90d3bf7e06473defa994f123f9ac59259648bca8a79b906a35294",
+      "photons": 10000000,
+      "seed": 21
+    },
+    {
+      "elevation": 90,
+      "quantity": "diffuse_horizontal",
+      "source": "mystic_e90_p10000000_s42_w1_r0_a0.1_o300_g0.2_i0_edn",
+      "sha256": "2c9fcbdb231b5e5f7e3bb3b0710a5a650ce1d58b96f50606664c0a566235b6e9",
+      "photons": 10000000,
+      "seed": 42
+    }
+  ]
+}

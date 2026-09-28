@@ -1,0 +1,49 @@
+{
+  "method": "Paired independent-wavelength MYSTIC runs at nodes excluded from the table; includes Monte Carlo noise.",
+  "samples": [
+    {
+      "elevation": -3,
+      "direct_simulation_lux": 102.43864575313607,
+      "interpolated_lux": 99.37616304498245,
+      "relative_lux_difference": 0.029895775033319083,
+      "uv_difference": 0.000952731649344734
+    },
+    {
+      "elevation": 0.5,
+      "direct_simulation_lux": 1170.458834482964,
+      "interpolated_lux": 1167.5041562897925,
+      "relative_lux_difference": 0.0025243760020631223,
+      "uv_difference": 0.00014283307246183976
+    },
+    {
+      "elevation": 4,
+      "direct_simulation_lux": 4259.300541969109,
+      "interpolated_lux": 4255.981516627654,
+      "relative_lux_difference": 0.0007792418752212704,
+      "uv_difference": 0.00032420929778222596
+    },
+    {
+      "elevation": 25,
+      "direct_simulation_lux": 45790.208496652915,
+      "interpolated_lux": 45752.955328392425,
+      "relative_lux_difference": 0.0008135618832836311,
+      "uv_difference": 2.6494080703291337e-05
+    },
+    {
+      "elevation": 52.5,
+      "direct_simulation_lux": 96371.98447834633,
+      "interpolated_lux": 96430.06491411422,
+      "relative_lux_difference": 0.0006026692931797584,
+      "uv_difference": 2.2656376393871343e-05
+    },
+    {
+      "elevation": 82.5,
+      "direct_simulation_lux": 123619.2642150035,
+      "interpolated_lux": 123316.19878139043,
+      "relative_lux_difference": 0.0024516036035124866,
+      "uv_difference": 1.8330007867913873e-05
+    }
+  ],
+  "maximum_relative_lux_difference": 0.029895775033319083,
+  "maximum_uv_difference": 0.000952731649344734
+}

@@ -1,0 +1,165 @@
+{
+  "title": "Physical Lights",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add a Physical Lights device",
+        "menu_options": {
+          "daylight": "Daylight reference",
+          "calibrated": "Calibrated light",
+          "melanopic": "Melanopic light"
+        }
+      },
+      "daylight": {
+        "title": "Set up Daylight",
+        "description": "Create a fixed-atmosphere daylight reference using Home Assistant's location. Includes illuminance, melanopic EDI, color temperature, normalized level, and geometric solar elevation. This integration does not control lights.",
+        "data": {
+          "name": "Device name"
+        }
+      },
+      "calibrated": {
+        "title": "Add a calibrated light",
+        "description": "Choose a source light with tunable white and a measured bulb curve. Reference illuminance is the lamp-only reading at your chosen position: measure the light off and on at 4000 K and 100% brightness, then enter on minus off.",
+        "data": {
+          "name": "Device name",
+          "source_entity_id": "Source light",
+          "model_id": "Measured bulb model",
+          "reference_lux": "Reference illuminance"
+        },
+        "data_description": {
+          "reference_lux": "Lamp-only lx at the target position, 4000 K and 100% brightness."
+        }
+      },
+      "melanopic": {
+        "title": "Add a melanopic light",
+        "description": "Select a Calibrated Light whose reference lux was measured at the position and meter orientation you want to model. Eye-level exposure requires a reference measurement at eye level facing the relevant direction. The spectral conversion is currently an estimate from representative CRI 90 LEDs, not a spectrum measured from your bulb.",
+        "data": {
+          "name": "Device name",
+          "source_entity_id": "Calibrated Light"
+        }
+      }
+    },
+    "error": {
+      "unsupported_model": "This bulb model has no measured curve.",
+      "proxy_as_source": "Select a physical source light, not this proxy.",
+      "source_already_configured": "This Calibrated Light already has a Melanopic Light proxy.",
+      "source_missing": "The source light does not exist.",
+      "source_not_tunable_white": "The source must support color temperature.",
+      "invalid_reference": "Enter a positive finite reference illuminance.",
+      "not_calibrated_light": "Select a light created by the Calibrated Light integration.",
+      "source_not_ready": "The selected Calibrated Light is not ready, or its integration needs an update."
+    },
+    "abort": {
+      "already_configured": "This source light already has a calibrated proxy."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configure Physical Lights device",
+        "data": {
+          "tilt": "Tilt from horizontal",
+          "facing_mode": "Facing mode",
+          "bearing": "Fixed compass bearing",
+          "source_entity_id": "Calibrated Light",
+          "model_id": "Measured bulb model",
+          "reference_lux": "Reference illuminance"
+        },
+        "data_description": {
+          "tilt": "0° faces straight up; 90° is vertical.",
+          "facing_mode": "Fixed bearing or turn to follow the sun’s current azimuth.",
+          "bearing": "Degrees clockwise from north (east 90°, south 180°, west 270°). Ignored when following the sun."
+        },
+        "submit": "Continue"
+      },
+      "review": {
+        "title": "Review daily daylight curve",
+        "description": "Predicted values for {date} at Home Assistant’s location. The three panels show illuminance, melanopic EDI, and color temperature across the local day. Values between simulated directions are interpolated clear-sky estimates. No setting changes until you save.\n\n![Daily daylight preview]({preview_url})"
+      }
+    },
+    "error": {
+      "unsupported_model": "This bulb model has no measured curve.",
+      "proxy_as_source": "Select a physical source light, not this proxy.",
+      "source_already_configured": "This Calibrated Light already has a Melanopic Light proxy.",
+      "source_missing": "The source light does not exist.",
+      "source_not_tunable_white": "The source must support color temperature.",
+      "invalid_reference": "Enter a positive finite reference illuminance.",
+      "not_calibrated_light": "Select a light created by the Calibrated Light integration.",
+      "source_not_ready": "The selected Calibrated Light is not ready, or its integration needs an update."
+    }
+  },
+  "selector": {
+    "facing_mode": {
+      "options": {
+        "fixed": "Fixed compass direction",
+        "follow_sun": "Follow the sun"
+      }
+    }
+  },
+  "services": {
+    "from_elevation": {
+      "name": "Calculate from solar elevation",
+      "description": "Return lux, melanopic EDI, and CCT on the selected Daylight device's receiving surface for a geometric solar elevation. No state is changed. Capture the response data.",
+      "fields": {
+        "device_id": {
+          "name": "Daylight device",
+          "description": "Use this device's receiving-surface settings."
+        },
+        "geometric_elevation": {
+          "name": "Geometric solar elevation",
+          "description": "Degrees above the horizon, without atmospheric refraction."
+        },
+        "solar_azimuth": {
+          "name": "Solar azimuth",
+          "description": "Optional compass direction of the sun, clockwise from north. Defaults to its current direction; supply a direction for a hypothetical sun position."
+        }
+      }
+    },
+    "from_level": {
+      "name": "Calculate from daylight level",
+      "description": "Return lux, melanopic EDI, and CCT on the selected Daylight device's receiving surface for a normalized daylight level. No state is changed. Capture the response data.",
+      "fields": {
+        "device_id": {
+          "name": "Daylight device",
+          "description": "Use this device's receiving-surface settings."
+        },
+        "daylight_level": {
+          "name": "Daylight level",
+          "description": "0 is the dark reference; 1 is today's solar noon."
+        },
+        "noon_elevation": {
+          "name": "Noon elevation",
+          "description": "Optional geometric noon elevation. Defaults to today's value at Home Assistant's location."
+        },
+        "solar_azimuth": {
+          "name": "Solar azimuth",
+          "description": "Optional compass direction of the sun, clockwise from north. Defaults to its current direction; supply a direction for a hypothetical sun position."
+        }
+      }
+    }
+  },
+  "entity": {
+    "number": {
+      "target_illuminance": {
+        "name": "Target illuminance"
+      },
+      "reference_illuminance": {
+        "name": "Reference illuminance"
+      },
+      "target_edi": {
+        "name": "Target melanopic EDI"
+      },
+      "maximum_cct_adjustment": {
+        "name": "Maximum CCT adjustment"
+      }
+    },
+    "sensor": {
+      "estimated_illuminance": {
+        "name": "Estimated illuminance"
+      },
+      "estimated_edi": {
+        "name": "Estimated melanopic EDI"
+      }
+    }
+  }
+}

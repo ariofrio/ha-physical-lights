@@ -1,0 +1,62 @@
+measurement_set,set_cct_k,measured_cct_k,dimming_level,raw_lux,ambient_lux,ambient_condition,notes
+# Bulb: Philips WiZ 21W (150W eq) A23 E26 - Model 9290034999
+# Rated: 2550 lumens, 2200-6500K, CRI>=90
+# Measurement device: LM-3000 iOS app
+# Position: ~3 inches from bulb surface, inside circular lampshade, constant position
+# Date: 2026-05-23
+#
+# Dimming curve at 6500K (triple measurements, ceiling lights on)
+dimming_curve_6500K,6500,,100,19300,152,ceiling_on,measurement 1
+dimming_curve_6500K,6500,,100,20000,152,ceiling_on,measurement 2
+dimming_curve_6500K,6500,,100,19200,152,ceiling_on,measurement 3
+dimming_curve_6500K,6500,,75,15400,152,ceiling_on,measurement 1
+dimming_curve_6500K,6500,,75,15300,152,ceiling_on,measurement 2
+dimming_curve_6500K,6500,,75,15300,152,ceiling_on,measurement 3
+dimming_curve_6500K,6500,,50,8860,152,ceiling_on,measurement 1
+dimming_curve_6500K,6500,,50,8900,152,ceiling_on,measurement 2
+dimming_curve_6500K,6500,,50,8670,152,ceiling_on,measurement 3 (corrected typo from 86700)
+dimming_curve_6500K,6500,,25,2830,152,ceiling_on,measurement 1
+dimming_curve_6500K,6500,,25,2840,152,ceiling_on,measurement 2
+dimming_curve_6500K,6500,,25,2890,152,ceiling_on,measurement 3
+dimming_curve_6500K,6500,,10,865,152,ceiling_on,measurement 1 (remeasured)
+dimming_curve_6500K,6500,,10,877,152,ceiling_on,measurement 2 (remeasured)
+dimming_curve_6500K,6500,,10,827,152,ceiling_on,measurement 3 (remeasured)
+dimming_curve_6500K,6500,,0,156,152,ceiling_on,bulb off - ambient baseline
+dimming_curve_6500K,6500,,0,150,152,ceiling_on,bulb off - ambient baseline
+dimming_curve_6500K,6500,,0,149,152,ceiling_on,bulb off - ambient baseline
+#
+# Ambient with ceiling lights off
+ambient_ceiling_off,,,0,77.1,,ceiling_off,bulb off
+ambient_ceiling_off,,,0,80.2,,ceiling_off,bulb off
+ambient_ceiling_off,,,0,78.8,,ceiling_off,bulb off
+#
+# CCT sweep at D=100 (single measurements, ceiling lights on, ambient ~99 lux)
+cct_sweep_d100,6500,6450,100,18400,99,ceiling_on,
+cct_sweep_d100,6006,6000,100,20000,99,ceiling_on,
+cct_sweep_d100,5011,5005,100,24000,99,ceiling_on,
+cct_sweep_d100,4003,4000,100,35800,99,ceiling_on,
+cct_sweep_d100,3009,3150,100,20300,99,ceiling_on,
+cct_sweep_d100,2200,2350,100,12400,99,ceiling_on,
+#
+# Dimming at 6500K (single measurements, ceiling lights on, ambient ~99 lux)
+dimming_6500K_round2,6500,6450,100,18400,99,ceiling_on,
+dimming_6500K_round2,6500,6500,50,9100,99,ceiling_on,
+dimming_6500K_round2,6500,5850,10,704,99,ceiling_on,measurement 1
+dimming_6500K_round2,6500,5850,10,728,99,ceiling_on,measurement 2
+#
+# Dimming at 4003K (single measurements, ceiling lights on, ambient ~99 lux)
+dimming_4003K,4003,4000,100,35800,99,ceiling_on,
+dimming_4003K,4003,,75,28400,99,ceiling_on,
+dimming_4003K,4003,4000,50,15800,99,ceiling_on,
+dimming_4003K,4003,,25,5140,99,ceiling_on,
+dimming_4003K,4003,4000,10,1300,99,ceiling_on,
+#
+# Dimming at 2200K (single measurements, ceiling lights on, ambient ~99 lux)
+dimming_2200K,2200,2350,100,12400,99,ceiling_on,
+dimming_2200K,2200,,75,9420,99,ceiling_on,
+dimming_2200K,2200,2300,50,5190,99,ceiling_on,
+dimming_2200K,2200,,25,1810,99,ceiling_on,
+dimming_2200K,2200,2600,10,492,99,ceiling_on,
+#
+# Ambient baseline round 2 (ceiling lights on, bulb off)
+ambient_round2,,,0,98.8,99,ceiling_on,measured temp 4050K
