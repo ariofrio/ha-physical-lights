@@ -25,7 +25,7 @@ Requires Home Assistant 2026.9 or newer. In HACS, add `ariofrio/ha-physical-ligh
 
 For manual installation, copy `custom_components/physical_lights/` into the Home Assistant configuration directory and restart.
 
-This replaces the separate [Daylight](https://github.com/ariofrio/ha-daylight) and [Calibrated Light](https://github.com/ariofrio/ha-calibrated-light) repositories. Both can remain installed while you set up and compare the new devices. To migrate, record the old entries' names, options, and entity IDs; create matching Physical Lights devices; compare their output; update references to the new entities; then remove the old entries and HACS downloads. Entity IDs and recorder history are not transferred automatically. Back up Home Assistant before deleting the old entries. A separately published Melanopic Light was never required; its functionality is included here.
+This replaces the separate [Daylight](https://github.com/ariofrio/ha-daylight) and [Calibrated Light](https://github.com/ariofrio/ha-calibrated-light) repositories. Both can remain installed while you set up and compare the new devices. To migrate, record the old entries' names, options, and entity IDs; create matching Physical Lights devices; compare their output; update references to the new entities; then remove the old entries and HACS downloads. On first setup, a Calibrated light copies the saved target lux and CCT from one old Calibrated Light entry using the same source and bulb model. Entity IDs and recorder history are not transferred automatically. Back up Home Assistant before deleting the old entries. A separately published Melanopic Light was never required; its functionality is included here.
 
 ## Daylight reference
 

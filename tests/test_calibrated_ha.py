@@ -2,6 +2,7 @@
 
 import pytest
 from homeassistant.const import STATE_OFF, STATE_ON
+from homeassistant.helpers.storage import Store
 from pytest_homeassistant_custom_component.common import MockConfigEntry
 
 from custom_components.physical_lights.calibrated.api import get_calibrated_light
@@ -58,6 +59,32 @@ async def test_config_flow_lists_measured_model_and_source(hass):
         },
     )
     assert result["type"] == "create_entry"
+
+
+async def test_new_proxy_imports_saved_request_from_matching_legacy_entry(hass):
+    legacy = MockConfigEntry(
+        domain="calibrated_light",
+        title="Calibrated Bedroom Lamp",
+        data={
+            "name": "Bedroom Lamp",
+            "source_entity_id": "light.raw_bedroom_lamp",
+            "model_id": "9290034999",
+            "reference_lux": 173,
+        },
+    )
+    legacy.add_to_hass(hass)
+    await Store(hass, 1, f"calibrated_light.{legacy.entry_id}").async_save(
+        {"target_lux": 13.79, "kelvin": 3000}
+    )
+    proxy = await setup_proxy(hass)
+    assert hass.states.get("number.bedroom_lamp_target_illuminance").state == "13.8"
+    assert hass.data["physical_lights"][proxy.entry_id].kelvin == 3000
+    assert await Store(hass, 1, f"physical_lights.{proxy.entry_id}").async_load() == {
+        "target_lux": 13.79,
+        "kelvin": 3000,
+        "last_raw_settings": None,
+    }
+    assert hass.states.get("light.raw_bedroom_lamp").state == STATE_OFF
 
 
 def intercept_source(hass, monkeypatch):

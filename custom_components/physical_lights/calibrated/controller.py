@@ -34,6 +34,10 @@ class Controller:
 
     async def async_load(self) -> None:
         data = await self.store.async_load() or {}
+        migrated = False
+        if not data:
+            data = await self._legacy_request() or {}
+            migrated = bool(data)
         if isinstance(data.get("last_raw_settings"), dict):
             self.last_raw_settings = data["last_raw_settings"]
         target = data.get("target_lux")
@@ -49,9 +53,23 @@ class Controller:
         ):
             self.target_lux = float(target)
             self.kelvin = kelvin
+            if migrated:
+                await self._save()
             return
         self.pending_adoption = True
         await self.async_finish_adoption()
+
+    async def _legacy_request(self) -> dict | None:
+        """Copy the saved request from one matching pre-combination proxy."""
+        matches = [
+            entry
+            for entry in self.hass.config_entries.async_entries("calibrated_light")
+            if entry.options.get(CONF_SOURCE, entry.data.get(CONF_SOURCE)) == self.source
+            and entry.options.get("model_id", entry.data.get("model_id")) == self.model.model_id
+        ]
+        if len(matches) != 1:
+            return None
+        return await Store(self.hass, 1, f"calibrated_light.{matches[0].entry_id}").async_load()
 
     async def async_finish_adoption(self) -> None:
         """Adopt the first usable source state when there is no saved request."""
